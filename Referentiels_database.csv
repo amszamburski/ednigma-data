@@ -1,5 +1,5 @@
-Item,Sub_item,Title,Objectives,Keypoints,Core,References,Year
-334,1,"Prise en charge immédiate pré-hospitalière et à l’arrivée à l’hôpital, évaluation des complications chez : un traumatisé sévère",Absence d’objectif détaillé dans le texte du programme officiel.,"Un traumatisé sévère est un patient victime d’un traumatisme dont la violence ou le mécanisme du
+Specialty,Item,Sub_item,Title,Objectives,Keypoints,Definitions,Core,References,Year
+Anesthésie-réanimation,334,1,"Prise en charge immédiate pré-hospitalière et à l’arrivée à l’hôpital, évaluation des complications chez : un traumatisé sévère",Absence d’objectif détaillé dans le texte du programme officiel.,"Un traumatisé sévère est un patient victime d’un traumatisme dont la violence ou le mécanisme du
 traumatisme peuvent entraîner des lésions mettant en jeu le pronostic vital.
 La première étape de la prise en charge médicale pré-hospitalière est la réalisation d’un bilan clinique
 des lésions et de leur retentissement physiologique (hémodynamique, ventilatoire et neurologique),
@@ -16,7 +16,15 @@ Le traitement de la défaillance hémodynamique repose majoritairement sur la pr
 hémorragique.
 Le traitement des défaillances ventilatoires et neurologiques fait appel à l’intubation orotrachéale.
 La coagulopathie est traitée précocement.
-Les lésions sont traitées chirurgicalement en priorisant les lésions hémorragiques puis ouvertes.","2.1. Notion de damage control
+Les lésions sont traitées chirurgicalement en priorisant les lésions hémorragiques puis ouvertes.","Un traumatisé sévère est un patient victime d’un traumatisme dont la violence ou le mécanisme du trauma-
+tisme peuvent entraîner des lésions mettant en jeu le pronostic vital.
+Les traumatismes sont la première cause de mortalité chez les sujets jeunes (moins de 40 ans) et sont à
+l’origine de handicaps lourds et d’un coût financier important. La prise en charge dans un centre spécialisé
+(« trauma center ») permet de diminuer de 25 % la mortalité, d’où l’importance du triage de ces patients.
+Un défaut d’orientation nécessitant un transfert secondaire vers un centre spécialisé est associé à une
+surmortalité.
+La mortalité précoce est liée à l’hémorragie et au traumatisme crânien. La mortalité tardive est liée aux
+conséquences du traumatisme crânien et au syndrome de défaillance multiviscérale et ses complications.","2.1. Notion de damage control
 Le concept de damage control est prépondérant à toutes les étapes de la prise en charge. Il concerne la
 prise en charge réanimatoire et chirurgicale sous 2 aspects : damage control resuscitation et damage
 control surgery.
@@ -285,7 +293,8 @@ Le traitement de la douleur et des complications neuropsychologiques s’intègr
 précoce initiée dès que le patient est stabilisé en réanimation.
 Les patients seront pris en charge en rééducation après la réanimation et suivis pour leurs séquelles soma-
 tiques (incapacité physique fonctionnelle) et psychologiques (syndromes anxio-dépressifs et syndrome de
-stress post-traumatique) afin d’améliorer leur évolution et leur qualité de vie globale.","Recommandations formalisées d’experts (RFE) pilotées par la Société française d’anesthésie-réanimation
+stress post-traumatique) afin d’améliorer leur évolution et leur qualité de vie globale.
+","Recommandations formalisées d’experts (RFE) pilotées par la Société française d’anesthésie-réanimation
 (SFAR), disponible sur www.sfar.org :
 [1] avec Société de réanimation de langue française, Société française de médecine d’urgence, Groupe
 d’étude sur l’hémostase et la thrombose. Prise en charge du choc hémorragique. 2014.
@@ -308,3 +317,47 @@ réanimation (SFAR), disponible sur www.sfar.org :
 [6] avec Société francophone de brûlologie, Société française de médecine d’urgence, Association des
 anesthésistes réanimateurs pédiatriques d’expression française. Prise en charge du brûlé grave à la phase
 aiguë chez l’adulte et l’enfant. 2019.",2020
+Chirurgie maxillo-faciale,,,,,,,,,
+Chirurgie orale,,,,,,,,,
+Chirurgie orthopédique et traumatologique,,,,,,,,,
+Chirurgie pédiatrique,,,,,,,,,
+"Chirurgie plastique, reconstructrice et esthétique",,,,,,,,,
+Chirurgie thoracique et cardiovasculaire,,,,,,,,,
+Chirurgie vasculaire,,,,,,,,,
+Chirurgie viscérale et digestive,,,,,,,,,
+Gynécologie-obstétrique,,,,,,,,,
+Neurochirurgie,,,,,,,,,
+Ophtalmologie,,,,,,,,,
+Oto-rhino-laryngologie – chirurgie cervico-faciale,,,,,,,,,
+Urologie,,,,,,,,,
+Allergologie,,,,,,,,,
+Anatomie et cytologie pathologiques,,,,,,,,,
+Anesthésie-réanimation,,,,,,,,,
+Dermatologie et vénéréologie,,,,,,,,,
+Endocrinologie-diabétologie-nutrition,,,,,,,,,
+Génétique médicale,,,,,,,,,
+Gériatrie,,,,,,,,,
+Gynécologie médicale,,,,,,,,,
+Hématologie,,,,,,,,,
+Hépato-gastro-entérologie,,,,,,,,,
+Maladies infectieuses et tropicales,,,,,,,,,
+Médecine cardiovasculaire,,,,,,,,,
+Médecine d’urgence,,,,,,,,,
+Médecine et santé au travail,,,,,,,,,
+Médecine générale,,,,,,,,,
+Médecine intensive-réanimation,,,,,,,,,
+Médecine interne et immunologie clinique,,,,,,,,,
+Médecine légale et expertises médicales,,,,,,,,,
+Médecine nucléaire,,,,,,,,,
+Médecine physique et de réadaptation,,,,,,,,,
+Médecine vasculaire,,,,,,,,,
+Néphrologie,,,,,,,,,
+Neurologie,,,,,,,,,
+Oncologie,,,,,,,,,
+Pédiatrie,,,,,,,,,
+Pneumologie,,,,,,,,,
+Psychiatrie,,,,,,,,,
+Radiologie et imagerie médicale,,,,,,,,,
+Rhumatologie,,,,,,,,,
+Santé publique,,,,,,,,,
+Biologie médicale,,,,,,,,,
