@@ -1,4 +1,4 @@
-Specialty,Item,Sub_item,Title,Objectives,Keypoints,Definitions,Core,References,Year
+Specialty,Item,Sub_item,Title,Objectives,Keypoints,Definitions,Core,References,Year,LISA
 Anesthésie-réanimation,334,1,"Prise en charge immédiate pré-hospitalière et à l’arrivée à l’hôpital, évaluation des complications chez : un traumatisé sévère",Absence d’objectif détaillé dans le texte du programme officiel.,"Un traumatisé sévère est un patient victime d’un traumatisme dont la violence ou le mécanisme du
 traumatisme peuvent entraîner des lésions mettant en jeu le pronostic vital.
 La première étape de la prise en charge médicale pré-hospitalière est la réalisation d’un bilan clinique
@@ -316,48 +316,105 @@ Recommandations pour la pratique professionnelle (RPP) pilotée par la Société
 réanimation (SFAR), disponible sur www.sfar.org :
 [6] avec Société francophone de brûlologie, Société française de médecine d’urgence, Association des
 anesthésistes réanimateurs pédiatriques d’expression française. Prise en charge du brûlé grave à la phase
-aiguë chez l’adulte et l’enfant. 2019.",2020
-Chirurgie maxillo-faciale,,,,,,,,,
-Chirurgie orale,,,,,,,,,
-Chirurgie orthopédique et traumatologique,,,,,,,,,
-Chirurgie pédiatrique,,,,,,,,,
-"Chirurgie plastique, reconstructrice et esthétique",,,,,,,,,
-Chirurgie thoracique et cardiovasculaire,,,,,,,,,
-Chirurgie vasculaire,,,,,,,,,
-Chirurgie viscérale et digestive,,,,,,,,,
-Gynécologie-obstétrique,,,,,,,,,
-Neurochirurgie,,,,,,,,,
-Ophtalmologie,,,,,,,,,
-Oto-rhino-laryngologie – chirurgie cervico-faciale,,,,,,,,,
-Urologie,,,,,,,,,
-Allergologie,,,,,,,,,
-Anatomie et cytologie pathologiques,,,,,,,,,
-Anesthésie-réanimation,,,,,,,,,
-Dermatologie et vénéréologie,,,,,,,,,
-Endocrinologie-diabétologie-nutrition,,,,,,,,,
-Génétique médicale,,,,,,,,,
-Gériatrie,,,,,,,,,
-Gynécologie médicale,,,,,,,,,
-Hématologie,,,,,,,,,
-Hépato-gastro-entérologie,,,,,,,,,
-Maladies infectieuses et tropicales,,,,,,,,,
-Médecine cardiovasculaire,,,,,,,,,
-Médecine d’urgence,,,,,,,,,
-Médecine et santé au travail,,,,,,,,,
-Médecine générale,,,,,,,,,
-Médecine intensive-réanimation,,,,,,,,,
-Médecine interne et immunologie clinique,,,,,,,,,
-Médecine légale et expertises médicales,,,,,,,,,
-Médecine nucléaire,,,,,,,,,
-Médecine physique et de réadaptation,,,,,,,,,
-Médecine vasculaire,,,,,,,,,
-Néphrologie,,,,,,,,,
-Neurologie,,,,,,,,,
-Oncologie,,,,,,,,,
-Pédiatrie,,,,,,,,,
-Pneumologie,,,,,,,,,
-Psychiatrie,,,,,,,,,
-Radiologie et imagerie médicale,,,,,,,,,
-Rhumatologie,,,,,,,,,
-Santé publique,,,,,,,,,
-Biologie médicale,,,,,,,,,
+aiguë chez l’adulte et l’enfant. 2019.",2020,"Savoir définir un traumatisé sévère
+Connaître les causes de mortalité après un traumatisme
+Savoir identifier et caractériser les lésions cliniquement
+Connaître les critères de gravité d'un traumatisé
+Connaître les principes de prise en charge préhospitalère des lésions
+Connaître les principes de réanimation préhospitalère
+Connaître les principes de la prise en charge diagnostique à l'arrivée à l'hôpital
+Connaître les principes de la prise en charge thérapeutique à l'arrivée à l'hôpital
+Connaître les principales complications du traumatisé sévère à court, moyen et long termes
+Connaître la définition d'une brûlure et de sa profondeur
+Connaître la définition d'un syndrome d'inhalation de fumées d'incendie
+Comprendre le mécanisme des complications après une brûlure
+Comprendre la physiopathologie du syndrome d'inhalation de fumée d'incendie
+Savoir diagnostiquer une brûlure et la surface brûlée
+Identifier une brûlure superficielle et une brûlure profonde
+Savoir reconnaître les signes de gravité d'une brûlure chez l'adulte et l'enfant
+Identifier une brûlure des voies aériennes
+Connaître les principes des soins locaux de brûlure
+Connaître les principes de la prise en charge d'un brûlé (hors soins locaux)
+Connaître les principes de prise en charge d'un syndrome d'inhalation de fumées d'incendie
+Connaître la physiopathologie de l'atteinte des organes intrathoraciques après traumatisme
+Savoir suspecter un traumatisme thoracique
+Savoir demander les examens complémentaires permettant le diagnostic de traumatisme thoracique
+Savoir reconnaître un hémothorax et un pneumothorax sur une radiographie
+Radiographies d'hémothorax et de pneumothorax
+Savoir identifier les situations indiquant le recours à une thérapeutique de sauvetage
+Connaître les principes de la prise en charge d'un traumatisme thoracique
+Connaître la physiopathologie de l'atteinte des organes abdominaux (intra et rétropéritonéaux) après traumatisme
+Savoir suspecter un traumatisme abdominal
+Savoir demander les examens d'imagerie permettant le diagnostic de traumatisme abdominal
+Savoir identifier le recours à une thérapeutique d'hémostase en urgence chez l'adulte et l'enfant
+Connaître les principes de la prise en charge d'un traumatisme abdominal chez l'adulte et l'enfant
+Connaître les mécanismes lésionnels
+Connaître la classification des fractures ouvertes
+Savoir suspecter à l'anamnèse et à l'examen clinique une lésion osseuse
+Savoir suspecter des complications vasculaires et neurologiques
+Connaître les indications et savoir demander un examen d'imagerie devant un traumatisé des membres et/ou du bassin
+Connaître la sémiologie radiologique de base des fractures diaphysaires simples des os longs
+Identifier une fracture diaphysaire des os longs
+Savoir rechercher des complications précoces
+Connaître des principes de prise en charge initiale d'une fracture
+Connaître les principes de prise en charge des fractures ouvertes et fermées
+Connaître les principes de prise en charge des principales complications des fractures
+Connaître la définition de la fracture du rachis et de l'atteinte médullaire associée
+Connaître les conséquences hémodynamiques et ventilatoires de l'atteinte médullaire selon le niveau lésionnel
+Circonstances, signes fonctionnels et physiques, savoir effectuer un examen neurologique complet et renseigner l'échelle ASIA
+Connaître les symptômes devant faire suspecter une lésion médullaire
+Connaître les indications et les modalités des principes d'immobilisation
+Connaître les indications d'imagerie devant un traumatisé du rachis ou vertébro-médullaire
+Connaître les principes de prise en charge des traumatismes du rachis
+Connaître la définition d'un traumatisé crânien léger, modéré et grave
+Connaître les principes physiopathologiques des lésions cérébrales traumatiques
+Savoir suspecter et diagnostiquer un traumatisme crânien
+Identifier le traumatisé crânien grave
+Identifier le traumatisé crânien nécessitant une évaluation spécialisées
+Savoir demander à bon escient l'examen d'imagerie pertinent devant un traumatisme crânien à la phase aiguë
+Tomodensitométrie d'hématome extra-dural, sous-dural et contusions cérébrales
+Connaître les principes de prise en charge des traumatisés crâniens"
+Chirurgie maxillo-faciale,,,,,,,,,,
+Chirurgie orale,,,,,,,,,,
+Chirurgie orthopédique et traumatologique,,,,,,,,,,
+Chirurgie pédiatrique,,,,,,,,,,
+"Chirurgie plastique, reconstructrice et esthétique",,,,,,,,,,
+Chirurgie thoracique et cardiovasculaire,,,,,,,,,,
+Chirurgie vasculaire,,,,,,,,,,
+Chirurgie viscérale et digestive,,,,,,,,,,
+Gynécologie-obstétrique,,,,,,,,,,
+Neurochirurgie,,,,,,,,,,
+Ophtalmologie,,,,,,,,,,
+Oto-rhino-laryngologie – chirurgie cervico-faciale,,,,,,,,,,
+Urologie,,,,,,,,,,
+Allergologie,,,,,,,,,,
+Anatomie et cytologie pathologiques,,,,,,,,,,
+Anesthésie-réanimation,,,,,,,,,,
+Dermatologie et vénéréologie,,,,,,,,,,
+Endocrinologie-diabétologie-nutrition,,,,,,,,,,
+Génétique médicale,,,,,,,,,,
+Gériatrie,,,,,,,,,,
+Gynécologie médicale,,,,,,,,,,
+Hématologie,,,,,,,,,,
+Hépato-gastro-entérologie,,,,,,,,,,
+Maladies infectieuses et tropicales,,,,,,,,,,
+Médecine cardiovasculaire,,,,,,,,,,
+Médecine d’urgence,,,,,,,,,,
+Médecine et santé au travail,,,,,,,,,,
+Médecine générale,,,,,,,,,,
+Médecine intensive-réanimation,,,,,,,,,,
+Médecine interne et immunologie clinique,,,,,,,,,,
+Médecine légale et expertises médicales,,,,,,,,,,
+Médecine nucléaire,,,,,,,,,,
+Médecine physique et de réadaptation,,,,,,,,,,
+Médecine vasculaire,,,,,,,,,,
+Néphrologie,,,,,,,,,,
+Neurologie,,,,,,,,,,
+Oncologie,,,,,,,,,,
+Pédiatrie,,,,,,,,,,
+Pneumologie,,,,,,,,,,
+Psychiatrie,,,,,,,,,,
+Radiologie et imagerie médicale,,,,,,,,,,
+Rhumatologie,,,,,,,,,,
+Santé publique,,,,,,,,,,
+Biologie médicale,,,,,,,,,,
