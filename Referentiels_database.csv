@@ -1,11 +1,62 @@
-Specialty,Item,Sub_item,Title,Objectives,Keypoints,Definitions,Core,References,Year,LISA
-Anesthésie-Réanimation,4,,"Qualité et sécurité des soins.
+﻿Item,Sub_item,Title,LISA,Objectives,Keypoints,Core,References,Year,Specialty,Definitions
+4,,"Qualité et sécurité des soins.
 La sécurité du patient
 La gestion des risques
 Les événements indésirables associés
 aux soins (EIAS)
 Démarche qualité et évaluation
-des pratiques professionnelles","Définir les notions de qualité, sécurité, événement indésirable grave (EIG), événement porteur de
+des pratiques professionnelles","Définir la Qualité
+Définir la Sécurité
+Définir : savoir définir les événements indésirables associés aux soins (EIAS) et leur niveau de gravité ; Notion d'évitabilité ; Notion d'événement porteur de risque ; Notion d'aléa thérapeutique
+Définir l'impact économique des EIAS
+Connaître les mécanismes de transmissibilité des bactéries multi-résistantes (BMR)
+Connaître les mécanismes de résistances transférables dans les EIAS
+Connaître les structures en charge des EIAS en France
+Connaître la définition de l'antisepsie
+Connaître les modalités d'antiseptie de la peau saine, de la peau lésée et des muqueuses
+Connaître la définition et les règles de l'aseptie
+Connaître la définition et les règles de la détersion
+Connaître la définition et les règles de la désinfection
+Connaître la définition et les règles de la décontamination, de la stérilisation
+Connaître les règles de l'utilisation des antiseptiques
+Citer les trois grandes causes de risque liés aux soins
+Connaître les modalités de l'hygiène des mains et d'utilisation des solutions hydro-alcooliques
+Connaître la définition des infections associées aux soins (IAS)
+Principe d'évaluation
+Connaître le principe de précaution
+Connaître le principe d'indépendance
+Connaître le principe de transparence
+Connaître les principes de la prévention a priori
+Connaître les principes de la prévention a posteriori
+Connaître le cycle d'amélioration continue Roue de Deming
+Connaître les principes de la culture de la sécurité
+Identifier les fonctions Ministère des affaires sociales et de la santé
+Haute Autorité de Santé, dispositif de déclaration des événements porteurs de risque
+Haute Autorité de Santé, missions dans la qualité et sécurité des soins
+Connaître les trois principaux microorganismes impliqués dans les IAS
+Connaître la prévalence des IAS et la part prévalente des principales IAS
+Connaître la répartition des principaux microrganismes responsables des IAS par sites anatomiques
+Connaître les critères diagnostiques d'une infection urinaire nosocomiales
+Connaître les critères diagnostiques d'une pneumopathie nosococomiales
+Connaître les critères diagnostiques d'une infection du site opératoire (ISO)
+Connaître les facteurs de risque d'une ISO
+Connaître les critères diagnostiques d'une infection liée au cathéter
+Connaître les règles de prévention des infections urinaires nosocomiales
+Connaître les règles de prévention des pneumopathies nosocomiales
+Connaître les règles de prévention des infections du site opératoire
+Connaître les règles de prévention des infections liées au cathéter
+Définir une BMR, une bactérie hautement résistante (BHR)
+Connaître le principe de signalement des IAS
+Connaître la définition et les principes des précautions standard
+Connaître la définition et les principes des précautions complémentaires
+Connaître les moyens de la mise en œuvre des précautions standard et autres
+Connaître les mesures associées aux précautions d'hygiène
+Connaître les principes d'une démarche qualité : assurance de la qualité, amélioration continue de la qualité
+Evaluation : connaître la certification des établissements de santé, les principes et la procédure
+Evaluation : connaître les indicateurs de qualité et sécurité des soins (IQSS), les principes et les principaux programmes nationaux
+Evaluation des pratiques professionnelles : connaître les principes et la typologie des méthodes
+Evaluation des pratiques : connaître les groupes d'échange de pratiques (groupes de pairs)
+Amélioration des pratiques : connaître le développement professionnel continu","Définir les notions de qualité, sécurité, événement indésirable grave (EIG), événement porteur de
 risque (EPR), résilience.
 Présenter les données quantitatives sur la fréquence et la nature des EIG dans le système de soins ;
 enquêtes nationales sur les EIG, évolution au cours des dix dernières années.
@@ -31,66 +82,7 @@ L’antisepsie est un terme réservé au traitement des plaies, la désinfection
 peau saine.
 La prévention des infections associées aux soins est indissociable de l’hygiène des mains.
 Les mesures de prévention des IAS reposent sur l’application rigoureuse des mesures d’hygiène, l’élaboration et
-l’application de conduites à tenir précises en cas de colonisation ou infection à bactéries multirésistantes.","1.1. Qualité
-Selon l’OMS il s’agit d’une « démarche qui doit permettre de garantir à chaque patient la combinaison
-d’actes diagnostiques et thérapeutiques qui lui assurera le meilleur résultat en termes de santé, confor-
-mément à l’état actuel de la science médicale, au meilleur coût pour un même résultat, au moindre risque
-iatrogène et pour sa plus grande satisfaction en termes de procédures, de résultats et de contacts humains
-à l’intérieur du système de soins » [1].
-1.2. Sécurité
-La sécurité des soins est basée sur le principe de ne pas nuire aux malades, c’est-à-dire l’absence pour
-un patient d’atteinte inutile ou potentielle associée aux soins de santé [1]. Elle s’intègre dans la culture de
-sécurité, « ensemble cohérent et intégré de comportements individuels et organisationnels » dont l’objectif
-est la réduction des dommages liés aux soins [2].
-1.3. Événement indésirable grave (EIG)
-Constitue un événement indésirable associé aux soins (EIAS) tout incident préjudiciable à un patient hospi-
-talisé survenu lors de la réalisation d’un acte de prévention, d’une investigation ou d’un traitement [3]. Il
-est considéré comme grave dans les circonstances suivantes :
-*décès inattendu, perte permanente d’une fonction ne résultant ni de l’évolution naturelle de la maladie,
-ni du terrain du patient ;
-*mise en jeu du pronostic vital ;
-*hospitalisation ou prolongation d’hospitalisation.
-1.4. Événement porteur de risque (EPR)
-Événement n’ayant pas engendré de conséquence grave pour le patient (« presque accident ») dont l’ana-
-lyse méthodique favorisera la compréhension des causes de survenue, mais aussi celle des modalités de
-la récupération ayant permis à temps sa détection et son traitement [1].
-1.5. Aléa thérapeutique
-Ce terme désigne l’ensemble des dommages causés à un patient au cours d’un acte médical en l’absence
-de faute ou d’erreur. C’est un événement dont la survenue potentielle peut être suspectée, mais que l’on
-ne peut prévoir à l’avance. Il doit être discerné de l’erreur médicale qui elle met en cause l’acte médical ou
-l’intervention du médecin et peut relever de la responsabilité de ce dernier. La loi Kouchner du 4 mars 2002
-a ouvert un droit nouveau : l’indemnisation des accidents médicaux non fautifs, par la solidarité nationale.
-1.6. Résilience
-Mesure dans laquelle un système est capable, en permanence, de prévenir, de détecter, d’atténuer les
-dangers ou les incidents, ou d’y remédier [1].
-1.7. Antisepsie
-Il s’agit selon l’Association française de normalisation (Afnor), d’une « opération au résultat momentané
-permettant, au niveau des tissus vivants, dans la limite de leur tolérance, d’éliminer ou de tuer tous les
-micro-organismes et/ou d’inactiver les virus en fonction des objectifs fixés. Le résultat de cette opéra-
-tion est limité aux micro-organismes et/ou aux virus présents au moment de l’opération ». Le Comité euro-
-péen de normalisation indique que ce terme est réservé au traitement des infections constituées, à savoir
-une plaie.
-1.8. Aseptie
-Selon l’Afnor, l’aseptie constitue un « ensemble de mesures propres à empêcher tout apport exogène de
-micro-organismes ». Le but est de prévenir toute contamination de plaie ou autres sites sensibles à l’infec-
-tion tant en salle d’opération, qu’au niveau de l’unité de soins, lors de traitements ou d’explorations.
-1.9. Désinfection
-C’est une « opération au résultat momentané permettant d’éliminer ou de tuer tous les micro-organismes
-et/ou d’inactiver les virus indésirables portés par des milieux inertes contaminés, en fonction des objectifs
-fixés. Le résultat de cette opération est limité aux micro-organismes et/ou aux virus présents au moment de
-l’opération ». Ce terme désigne donc une opération visant à prévenir toute infection de la peau saine selon
-le comité européen de normalisation.
-1.10. Décontamination
-Ce terme se définit par un traitement réalisé sur les matériaux souillés par des matières organiques afin
-de réduire la quantité des micro-organismes et/ou virus et de faciliter le nettoyage ultérieur. La déconta-
-mination correspond à toute opération au résultat momentané, permettant d’éliminer, de tuer ou d’inhiber
-les micro-organismes indésirables, en fonction des objectifs fixés. Si le produit ou le procédé est sélectif,
-ceci doit être précisé. Le résultat de cette opération est limité aux micro-organismes présents au moment
-de l’opération. L’usage du terme « désinfection » en synonyme de « décontamination » est prohibé (Afnor).
-1.11. Stérilisation
-C’est la mise en œuvre de méthodes visant à éliminer ou tuer tous les micro-organismes présents sur les
-milieux inertes contaminés. Le résultat de cette opération est l’état de stérilité.
-","2. Épidémiologie
+l’application de conduites à tenir précises en cas de colonisation ou infection à bactéries multirésistantes.","2. Épidémiologie
 Les deux Enquêtes nationales sur les événements indésirables graves associés aux soins réalisées en 2004
 (ENEIS 1) et en 2009 (ENEIS 2) ont cherché à évaluer l’importance des EIG liés au processus de soins sur
 plus de 8 000 séjours patients et d’en connaître la part évitable. Il s’agit d’une étude d’incidence sur une
@@ -519,59 +511,85 @@ Juillet 2013.
 [12] Santé publique France. Enquête nationale de prévalence des infections nosocomiales et des traite-
 ments anti-infectieux en établissements de santé, mai-juin 2017 (publiée en septembre 2019).
 [13] Société française d’hygiène hospitalière. Prévention des infections liées aux cathéters périphériques
-vasculaires et sous-cutanés. 2019.",2020,"Définir la Qualité
-Définir la Sécurité
-Définir : savoir définir les événements indésirables associés aux soins (EIAS) et leur niveau de gravité ; Notion d'évitabilité ; Notion d'événement porteur de risque ; Notion d'aléa thérapeutique
-Définir l'impact économique des EIAS
-Connaître les mécanismes de transmissibilité des bactéries multi-résistantes (BMR)
-Connaître les mécanismes de résistances transférables dans les EIAS
-Connaître les structures en charge des EIAS en France
-Connaître la définition de l'antisepsie
-Connaître les modalités d'antiseptie de la peau saine, de la peau lésée et des muqueuses
-Connaître la définition et les règles de l'aseptie
-Connaître la définition et les règles de la détersion
-Connaître la définition et les règles de la désinfection
-Connaître la définition et les règles de la décontamination, de la stérilisation
-Connaître les règles de l'utilisation des antiseptiques
-Citer les trois grandes causes de risque liés aux soins
-Connaître les modalités de l'hygiène des mains et d'utilisation des solutions hydro-alcooliques
-Connaître la définition des infections associées aux soins (IAS)
-Principe d'évaluation
-Connaître le principe de précaution
-Connaître le principe d'indépendance
-Connaître le principe de transparence
-Connaître les principes de la prévention a priori
-Connaître les principes de la prévention a posteriori
-Connaître le cycle d'amélioration continue Roue de Deming
-Connaître les principes de la culture de la sécurité
-Identifier les fonctions Ministère des affaires sociales et de la santé
-Haute Autorité de Santé, dispositif de déclaration des événements porteurs de risque
-Haute Autorité de Santé, missions dans la qualité et sécurité des soins
-Connaître les trois principaux microorganismes impliqués dans les IAS
-Connaître la prévalence des IAS et la part prévalente des principales IAS
-Connaître la répartition des principaux microrganismes responsables des IAS par sites anatomiques
-Connaître les critères diagnostiques d'une infection urinaire nosocomiales
-Connaître les critères diagnostiques d'une pneumopathie nosococomiales
-Connaître les critères diagnostiques d'une infection du site opératoire (ISO)
-Connaître les facteurs de risque d'une ISO
-Connaître les critères diagnostiques d'une infection liée au cathéter
-Connaître les règles de prévention des infections urinaires nosocomiales
-Connaître les règles de prévention des pneumopathies nosocomiales
-Connaître les règles de prévention des infections du site opératoire
-Connaître les règles de prévention des infections liées au cathéter
-Définir une BMR, une bactérie hautement résistante (BHR)
-Connaître le principe de signalement des IAS
-Connaître la définition et les principes des précautions standard
-Connaître la définition et les principes des précautions complémentaires
-Connaître les moyens de la mise en œuvre des précautions standard et autres
-Connaître les mesures associées aux précautions d'hygiène
-Connaître les principes d'une démarche qualité : assurance de la qualité, amélioration continue de la qualité
-Evaluation : connaître la certification des établissements de santé, les principes et la procédure
-Evaluation : connaître les indicateurs de qualité et sécurité des soins (IQSS), les principes et les principaux programmes nationaux
-Evaluation des pratiques professionnelles : connaître les principes et la typologie des méthodes
-Evaluation des pratiques : connaître les groupes d'échange de pratiques (groupes de pairs)
-Amélioration des pratiques : connaître le développement professionnel continu"
-Neurochirurgie,93,,Compression médullaire non traumatique et syndrome de la queue de cheval,"Connaître la physiopathologie des lésions médullaires et d'un syndrome de la queue de cheval
+vasculaires et sous-cutanés. 2019.",2020.0,Anesthésie-Réanimation,"1.1. Qualité
+Selon l’OMS il s’agit d’une « démarche qui doit permettre de garantir à chaque patient la combinaison
+d’actes diagnostiques et thérapeutiques qui lui assurera le meilleur résultat en termes de santé, confor-
+mément à l’état actuel de la science médicale, au meilleur coût pour un même résultat, au moindre risque
+iatrogène et pour sa plus grande satisfaction en termes de procédures, de résultats et de contacts humains
+à l’intérieur du système de soins » [1].
+1.2. Sécurité
+La sécurité des soins est basée sur le principe de ne pas nuire aux malades, c’est-à-dire l’absence pour
+un patient d’atteinte inutile ou potentielle associée aux soins de santé [1]. Elle s’intègre dans la culture de
+sécurité, « ensemble cohérent et intégré de comportements individuels et organisationnels » dont l’objectif
+est la réduction des dommages liés aux soins [2].
+1.3. Événement indésirable grave (EIG)
+Constitue un événement indésirable associé aux soins (EIAS) tout incident préjudiciable à un patient hospi-
+talisé survenu lors de la réalisation d’un acte de prévention, d’une investigation ou d’un traitement [3]. Il
+est considéré comme grave dans les circonstances suivantes :
+*décès inattendu, perte permanente d’une fonction ne résultant ni de l’évolution naturelle de la maladie,
+ni du terrain du patient ;
+*mise en jeu du pronostic vital ;
+*hospitalisation ou prolongation d’hospitalisation.
+1.4. Événement porteur de risque (EPR)
+Événement n’ayant pas engendré de conséquence grave pour le patient (« presque accident ») dont l’ana-
+lyse méthodique favorisera la compréhension des causes de survenue, mais aussi celle des modalités de
+la récupération ayant permis à temps sa détection et son traitement [1].
+1.5. Aléa thérapeutique
+Ce terme désigne l’ensemble des dommages causés à un patient au cours d’un acte médical en l’absence
+de faute ou d’erreur. C’est un événement dont la survenue potentielle peut être suspectée, mais que l’on
+ne peut prévoir à l’avance. Il doit être discerné de l’erreur médicale qui elle met en cause l’acte médical ou
+l’intervention du médecin et peut relever de la responsabilité de ce dernier. La loi Kouchner du 4 mars 2002
+a ouvert un droit nouveau : l’indemnisation des accidents médicaux non fautifs, par la solidarité nationale.
+1.6. Résilience
+Mesure dans laquelle un système est capable, en permanence, de prévenir, de détecter, d’atténuer les
+dangers ou les incidents, ou d’y remédier [1].
+1.7. Antisepsie
+Il s’agit selon l’Association française de normalisation (Afnor), d’une « opération au résultat momentané
+permettant, au niveau des tissus vivants, dans la limite de leur tolérance, d’éliminer ou de tuer tous les
+micro-organismes et/ou d’inactiver les virus en fonction des objectifs fixés. Le résultat de cette opéra-
+tion est limité aux micro-organismes et/ou aux virus présents au moment de l’opération ». Le Comité euro-
+péen de normalisation indique que ce terme est réservé au traitement des infections constituées, à savoir
+une plaie.
+1.8. Aseptie
+Selon l’Afnor, l’aseptie constitue un « ensemble de mesures propres à empêcher tout apport exogène de
+micro-organismes ». Le but est de prévenir toute contamination de plaie ou autres sites sensibles à l’infec-
+tion tant en salle d’opération, qu’au niveau de l’unité de soins, lors de traitements ou d’explorations.
+1.9. Désinfection
+C’est une « opération au résultat momentané permettant d’éliminer ou de tuer tous les micro-organismes
+et/ou d’inactiver les virus indésirables portés par des milieux inertes contaminés, en fonction des objectifs
+fixés. Le résultat de cette opération est limité aux micro-organismes et/ou aux virus présents au moment de
+l’opération ». Ce terme désigne donc une opération visant à prévenir toute infection de la peau saine selon
+le comité européen de normalisation.
+1.10. Décontamination
+Ce terme se définit par un traitement réalisé sur les matériaux souillés par des matières organiques afin
+de réduire la quantité des micro-organismes et/ou virus et de faciliter le nettoyage ultérieur. La déconta-
+mination correspond à toute opération au résultat momentané, permettant d’éliminer, de tuer ou d’inhiber
+les micro-organismes indésirables, en fonction des objectifs fixés. Si le produit ou le procédé est sélectif,
+ceci doit être précisé. Le résultat de cette opération est limité aux micro-organismes présents au moment
+de l’opération. L’usage du terme « désinfection » en synonyme de « décontamination » est prohibé (Afnor).
+1.11. Stérilisation
+C’est la mise en œuvre de méthodes visant à éliminer ou tuer tous les micro-organismes présents sur les
+milieux inertes contaminés. Le résultat de cette opération est l’état de stérilité."
+93,,Compression médullaire non traumatique et syndrome de la queue de cheval,"Connaître la physiopathologie des lésions médullaires et d'un syndrome de la queue de cheval
+Connaître les signes cliniques d'une compression médullaire
+Savoir hiérarchiser les examens complémentaires devant une suspicion de compression médullaire
+Savoir faire le diagnostic d'une compression médullaire à l'imagerie
+Exemple d'une IRM typique de compression médullaire
+Connaître les étiologies d'une compression médullaire
+Connaître le diagnostic différentiel
+Connaître les formes topographiques
+Savoir identifier des situations d'urgence devant une compression médullaire
+Connaître les principes de la prise en charge des situations d'urgence devant une compression médullaire
+Savoir faire le diagnostic clinique d'un syndrome de la queue de cheval
+Savoir hiérarchiser les examens complémentaires d'un syndrome de la queue de cheval
+Savoir faire le diagnostic radiologique d'un syndrome de la queue de cheval
+IRM typique de syndrome de la queue de cheval
+Connaître les étiologies d'un syndrome de la queue de cheval
+Connaître le diagnostic différentiel d'un syndrome de la queue de cheval
+Savoir identifier les situations d'urgence devant un syndrome de la queue de cheval
+Connaître les principes de la prise en charge des situations d'urgence devant un syndrome de la queue de cheval
+Comprendre les principaux déficits et incapacités secondaires à une compression médullaire ou un syndrome de la queue de cheval
+Connaître les principes essentiels de prise en charge des déficits, des incapacités et handicap secondaire à une compression médullaire ou un syndrome de la queue de cheval","Connaître la physiopathologie des lésions médullaires et d'un syndrome de la queue de cheval
 Connaître les signes cliniques d'une compression médullaire
 Savoir hiérarchiser les examens complémentaires devant une suspicion de compression médullaire
 Savoir faire le diagnostic d'une compression médullaire à l'imagerie
@@ -604,7 +622,7 @@ Prise en charge thérapeutique
 –	Le syndrome de la queue de cheval est une urgence neurochirurgicale.
 –	En fonction de l'étiologie, ne pas oublier les traitements complémentaires à la chirurgie (antibiotiques si infection, RCP oncologie si métastase).
 –	L'évaluation et la prise en charge en rééducation font partie du parcours du patient.
-–	La récupération est incertaine (surtout en ce qui concerne les fonctions génitosphinctériennes). Le délai de prise en charge et le statut neurologique préopératoire sont des éléments pronostiques forts.",,"I Rappels anatomiques
+–	La récupération est incertaine (surtout en ce qui concerne les fonctions génitosphinctériennes). Le délai de prise en charge et le statut neurologique préopératoire sont des éléments pronostiques forts.","I Rappels anatomiques
 •	On compte 31 paires de racines spinales (ou nerfs spinaux) pour 29 vertèbres (incluant les 5 vertèbres sacrées qui ont fusionné).
 •	Les racines spinales sortent du canal vertébral lombaire par les foramens intervertébraux (ou foramens de conjugaison). Elles portent le numéro de la vertèbre sus-jacente au foramen intervertébral.
 •	L'extrémité inférieure de la moelle épinière constitue le cône terminal.
@@ -868,473 +886,4 @@ La prise en charge rééducative portera sur le syndrome rachidien, sur l'attein
 –	déclenchement réflexe de l'exonération des selles par suppositoire ;
 –	extraction manuelle de l'ampoule rectale.
 •	Troubles génitosexuels : les troubles de l'érection (érection molle) peuvent être améliorés par l'injection intracaverneuse de prostaglandines E1.
-Ces différentes prises en charge sont à adapter à l'état et l'évolution clinique du patient. La pluridisciplinarité intègre la participation du patient et son éducation (notamment au niveau cutané et urinaire).
-",,,"Connaître la physiopathologie des lésions médullaires et d'un syndrome de la queue de cheval
-Connaître les signes cliniques d'une compression médullaire
-Savoir hiérarchiser les examens complémentaires devant une suspicion de compression médullaire
-Savoir faire le diagnostic d'une compression médullaire à l'imagerie
-Exemple d'une IRM typique de compression médullaire
-Connaître les étiologies d'une compression médullaire
-Connaître le diagnostic différentiel
-Connaître les formes topographiques
-Savoir identifier des situations d'urgence devant une compression médullaire
-Connaître les principes de la prise en charge des situations d'urgence devant une compression médullaire
-Savoir faire le diagnostic clinique d'un syndrome de la queue de cheval
-Savoir hiérarchiser les examens complémentaires d'un syndrome de la queue de cheval
-Savoir faire le diagnostic radiologique d'un syndrome de la queue de cheval
-IRM typique de syndrome de la queue de cheval
-Connaître les étiologies d'un syndrome de la queue de cheval
-Connaître le diagnostic différentiel d'un syndrome de la queue de cheval
-Savoir identifier les situations d'urgence devant un syndrome de la queue de cheval
-Connaître les principes de la prise en charge des situations d'urgence devant un syndrome de la queue de cheval
-Comprendre les principaux déficits et incapacités secondaires à une compression médullaire ou un syndrome de la queue de cheval
-Connaître les principes essentiels de prise en charge des déficits, des incapacités et handicap secondaire à une compression médullaire ou un syndrome de la queue de cheval"
-Neurochirurgie,95,,,,,,,,,
-Neurochirurgie,99,,,,,,,,,
-Neurochirurgie,299,,,,,,,,,
-Neurochirurgie,334,,,,,,,,,
-Neurochirurgie,335,,,,,,,,,
-Neurochirurgie,340,,,,,,,,,
-Neurochirurgie,341,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-Anesthésie-réanimation,334,1,"Prise en charge immédiate pré-hospitalière et à l’arrivée à l’hôpital, évaluation des complications chez : un traumatisé sévère",Absence d’objectif détaillé dans le texte du programme officiel.,"Un traumatisé sévère est un patient victime d’un traumatisme dont la violence ou le mécanisme du
-traumatisme peuvent entraîner des lésions mettant en jeu le pronostic vital.
-La première étape de la prise en charge médicale pré-hospitalière est la réalisation d’un bilan clinique
-des lésions et de leur retentissement physiologique (hémodynamique, ventilatoire et neurologique),
-permettant de guider l’orientation hospitalière du patient vers un établissement adapté à son état.
-La seconde étape de sa prise en charge pré-hospitalière est l’initiation du traitement.
-Les quinze premières minutes de la prise en charge hospitalière sont consacrées au bilan clinique et au
-conditionnement du patient.
-Les trente premières minutes sont consacrées à la réalisation du bilan initial, biologique et
-radiologique standard (radiographies de thorax, bassin et échographie FAST), lequel ne comprend pas
-la tomodensitométrie.
-La tomodensitométrie corps entier sans (au niveau cérébral) puis avec injection de produit de contraste
-doit être réalisée chez tous les patients traumatisés sévères dont l’état hémodynamique a été stabilisé.
-Le traitement de la défaillance hémodynamique repose majoritairement sur la prise en charge du choc
-hémorragique.
-Le traitement des défaillances ventilatoires et neurologiques fait appel à l’intubation orotrachéale.
-La coagulopathie est traitée précocement.
-Les lésions sont traitées chirurgicalement en priorisant les lésions hémorragiques puis ouvertes.","Un traumatisé sévère est un patient victime d’un traumatisme dont la violence ou le mécanisme du trauma-
-tisme peuvent entraîner des lésions mettant en jeu le pronostic vital.
-Les traumatismes sont la première cause de mortalité chez les sujets jeunes (moins de 40 ans) et sont à
-l’origine de handicaps lourds et d’un coût financier important. La prise en charge dans un centre spécialisé
-(« trauma center ») permet de diminuer de 25 % la mortalité, d’où l’importance du triage de ces patients.
-Un défaut d’orientation nécessitant un transfert secondaire vers un centre spécialisé est associé à une
-surmortalité.
-La mortalité précoce est liée à l’hémorragie et au traumatisme crânien. La mortalité tardive est liée aux
-conséquences du traumatisme crânien et au syndrome de défaillance multiviscérale et ses complications.","2.1. Notion de damage control
-Le concept de damage control est prépondérant à toutes les étapes de la prise en charge. Il concerne la
-prise en charge réanimatoire et chirurgicale sous 2 aspects : damage control resuscitation et damage
-control surgery.
-290
-2.1.1. Damage control resuscitation
-Ce concept concerne la prise en charge médicale par l’anesthésiste-réanimateur. Il est dominé par la mise
-en place des thérapeutiques strictement nécessaires. Aucune thérapeutique risquant de ralentir le contrôle
-de l’hémorragie ne doit être entreprise. La prise en charge de ces patients doit être la plus rapide possible
-suivant le concept de golden hour tant à la phase pré-hospitalière qu’à l’admission hospitalière. Tout retard
-à la prise en charge de ces patients est grevé d’une surmortalité.
-2.1.2. Damage control surgery
-Le traitement chirurgical concerne les patients instables. La priorité est à l’arrêt du saignement afin de
-maîtriser la coagulopathie. Il doit être le plus rapide possible et se limiter aux gestes strictement néces-
-saires. Par exemple, le chirurgien réalisera une laparotomie écourtée : exploration péritonéale afin de loca-
-liser le saignement, qu’il traitera par une splénectomie d’hémostase, un packing hépatique (tamponnement
-hémostatique du foie à l’aide de textiles), puis fermeture cutanée exclusive ou laparostome permettant un
-2e look chirurgical rapide après stabilisation, et de finaliser l’intervention. Pour certains traumatismes,
-c’est l’embolisation artérielle qui est le traitement de première intention pour arrêter l’hémorragie (trauma
-du bassin).
-Phase pré-hospitalière
-2.2.1. Avant l’arrivée des secours médicalisés
-Le rôle du témoin de l’accident est fondamental dans la prise en charge du patient traumatisé sévère.
-Comme dans la prise en charge de l’arrêt cardiaque, il est le premier maillon d’une « chaîne de survie ». Ses
-rôles principaux sont :
-*
-Protéger : éviter le « sur-accident », se protéger, retirer le(s) blessé(s) de l’agent traumatique
-*
-Alerter : Appeler le 15 (SAMU-SMUR), le 18 (Pompiers), ou le 112 (en France et dans l’Union Européenne)
-et rechercher de l’aide autour de soi. Il est important de préciser son nom, formation, le lieu de l’accident,
-le nombre de blessés, la gravité des blessures, et de demander à la personne qui prend l’appel si on peut
-raccrocher avant de raccrocher.
-*
-Secourir : Le médecin régulateur donne les ordres téléphoniques en fonction de l’aide présente :
-compression d’une hémorragie active, position latérale de sécurité (PLS), Réanimation Cardio-Pulmonaire
-(RCP) de base (cf. item 331).
-2.2.2. Examen clinique à l’arrivée du médecin pré-hospitalier
-À l’arrivée sur les lieux de l’accident, le médecin du SMUR va se renseigner sur le nombre de blessés, les
-circonstances de l’accident par un interrogatoire des témoins. Il recherchera des détresses vitales, en prio-
-risant celles impactant le plus rapidement la mortalité. Il s’aide pour cela de l’acronyme ABCDE :
-*
-[A]irway (voies aériennes) : recherche d’une obstruction des voies aériennes ;
-*
-[B]reathing (ventilation) : SpO2, fréquence respiratoire, cyanose, signes de détresse respiratoire (tirage,
-utilisation des muscles respiratoires accessoires, balancement thoraco-abdominal) ;
-*
-[C]irculation (hémodynamique) : recherche de signes de choc (marbrures, temps de recoloration
-cutanée), pression artérielle, fréquence cardiaque, palpation des pouls, recherche d’une hémorragie
-active. Le pouls radial témoigne d’une PAS
->
-70 mmHg ;
-*
-[D]isability (atteinte neurologique) : score de Glasgow, examen bilatéral des pupilles, tonicité des
-membres du sphincter anal (toucher rectal) en cas de suspicion d’atteinte médullaire ;
-*
-[E]xposure (blessures) : recherche de plaies et de foyers de fractures ;
-*
-En pratique quotidienne, l’algorithme de Vittel (figure 1) est le plus utilisé pour définir un traumatisé
-sévère et l’orienter vers une structure adaptée à son état.
-291
-2.2.3. Prise en charge médicale pré-hospitalière
-En fonction des données de l’examen clinique, le médecin instaure le traitement en URGENCE.
-*
-1 Il procède à la compression de toute hémorragie extériorisée (ou met un garrot), suture une plaie du
-scalp hémorragique, tamponne une epistaxis. Il exsuffle tout pneumothorax sous tension ;
-*
-2 Mise en place d’un monitorage continu (scope) de la pression artérielle automatisée non invasive, de
-la fréquence cardiaque, de la saturation pulsée en oxygène (SpO2) et de la fréquence respiratoire.
-*
-3 Il assure, avec son équipe, la pose de 2 voies veineuses périphériques (de bon calibre, 16 G si possible),
-la mesure de la glycémie capillaire (Dextro), de l’hémoglobine (Hémocue) et de la lactatémie plasmatique ;
-*
-4.1 Il administre une oxygénothérapie titrée (masque facial 5 à 10 L/min, masque à haute concen-
-tration à 15 L/min) pour une SpO2
->
-95 %, et réalise une intubation oro-trachéale en séquence rapide
-(cf. item 336) pour ventilation mécanique si le score de Glasgow est ≤ 8, ou en cas de détresse respiratoire
-ou hémodynamique ;
-*
-4.2 Il procède au remplissage vasculaire lorsque nécessaire et initie un traitement vasopresseur par
-noradrénaline si l’hypotension persiste malgré un remplissage adapté, dans le but de maintenir une pres-
-sion de perfusion tissulaire suffisante (cf. item 332, 9.) ;
-*
-5 Il immobilise le patient en maintenant la rectitude crânio-rachidienne (minerve cervicale rigide +
-matelas en dépression = « matelas coquille »). Tout patient traumatisé crânien est un traumatisé du rachis
-jusqu’à preuve radiologique du contraire ;
-*
-6 Il administre un traitement antalgique (morphine ou anesthésie générale). Gardons à l’esprit que l’im-
-mobilisation des foyers de fracture constitue la première étape du traitement antalgique de celles-ci ;
-*
-7 Il procède au nettoyage des plaies, à leur désinfection et à la mise en place de pansements ;
-*
-8 Il assure la lutte contre l’hypothermie (couverture de survie) ;
-*
-9 Il réalise un bilan clinique complet (fractures, plaies…) avec schéma au besoin, bilan qu’il transmet au
-centre 15 permettant l’orientation du patient vers un centre hospitalier adapté à l’état du patient ;
-*
-10 Tout processus hémorragique non contrôlé est une urgence nécessitant le transfert sans délai vers
-un centre hospitalier apte à assurer l’hémostase : le pronostic est directement lié à la rapidité de prise en
-charge.
-2.3. Phase hospitalière
-2.3.1. Les 15 premières minutes :
-le conditionnement et l’examen clinique
-Le patient est transféré du brancard du SMUR vers le brancard du service d’accueil, maintenu immobilisé
-avec respect de la rectitude crânio-rachidienne (minerve + installation sur une planche rigide, SANS trac-
-tion axiale). Il est idéalement installé sur un matelas chauffant pour prévenir et traiter toute hypothermie.
-La surveillance est poursuivie (FC, PA, SpO2). Une mesure de l’hémoglobine et de la glycémie sont égale-
-ment réalisées (attention, on rappelle que le taux d’hémoglobine peut être normal en cas d’hémorragie
-active avant remplissage vasculaire). Une sonde thermique est mise en place : œsophagienne (chez un
-patient intubé), rectale, ou vésicale (pas de sondage vésical si urétrorragie ou suspicion de fracture du
-bassin).
-Les voies veineuses mises en place en pré-hospitalier sont vérifiées et complétées au besoin (pose d’une
-seconde voie veineuse périphérique, pose d’une voie veineuse centrale si absence de capital veineux péri-
-phérique ou administration de noradrénaline).
-Les dispositifs d’oxygénation initiés sont maintenus pour obtenir une SpO2
->
-95 %. Lorsque nécessaire, et si
-elle n’a pas été initiée auparavant, une intubation orotrachéale en séquence rapide (tout patient traumatisé
-est considéré comme ayant un estomac plein du fait de l’inconnu concernant l’heure du dernier repas mais
-surtout du fait d’une gastroparésie souvent majeure en cas de traumatisme) avec maintien de l’axe rachi-
-dien (stabilisation manuelle en ligne) est réalisée.
-Le remplissage vasculaire est poursuivi. Si nécessaire, une transfusion sanguine en urgence vitale immé-
-diate est initiée (cf. item 332, 9.). La noradrénaline est introduite afin de maintenir la pression de perfusion
-tissulaire lorsque nécessaire.
-En parallèle, un examen clinique complet est réalisé. Celui-ci commence par l’interrogatoire du patient,
-lorsque possible. Il évaluera, en particulier, le statut vaccinal contre le tétanos. L’examen clinique évaluera
-les fonctions hémodynamiques, ventilatoires et neurologiques, en sus du bilan lésionnel. Ce dernier recher-
-chera des lésions traumatiques dans les cinq régions du corps suivantes (moyen mnémotechnique : comme
-les cinq doigts de la main) :
-*
-tête – cou – rachis ;
-*
-thorax ;
-*
-abdomen ;
-*
-bassin ;
-*
-membres.
-Ce bilan comportera systématiquement chez le patient inconscient ou suspect de lésion du rachis, un
-toucher rectal ; la mise en évidence d’une béance anale devant faire suspecter une lésion médullaire.
-Une fois le patient stabilisé, un deuxième examen clinique plus « fin » s’attachera à rechercher des lésions
-pouvant avoir un impact fonctionnel important (mains, pieds, recherche de lésions oculaires, des organes
-génitaux, articulations, recherche de lésions cutanées).
-Il faut demander un avis urologique devant toute uréthroragie en vue du sondage urinaire.
-Ces différentes étapes doivent être réalisées de manière quasi-simultanée et doivent être accomplies dans
-les 15 minutes suivant l’arrivée du patient.
-294
-2.3.2. Les 30 premières minutes : le bilan initial
-Le bilan paraclinique comporte :
-*
-Groupe et Recherche d’Agglutinines Irrégulières prétransfusionnels : indispensable avant toute trans-
-fusion même en urgence vitale (la transfusion sera alors réalisée avant le résultat mais le prélèvement
-est fait obligatoirement avant la transfusion, car la transfusion peut fausser le résultat ; 2 déterminations
-prélevées par 2 personnes différentes sur deux sites différents ou la même personne au cours de deux
-prélèvements différents : cf. item 329) ;
-*
-Numération sanguine : recherche d’une anémie et d’une thrombopénie ;
-*
-Taux de Prothrombine et Temps de Céphaline Kaolin, fibrinogène : recherche d’une coagulopathie de
-consommation (TP diminué et TCK augmenté
->
-1,5 témoin) ;
-*
-Gaz du sang et lactate artériel : recherche d’une acidose métabolique, d’une hypoxémie ;
-*
-Ionogramme sanguin, urémie et créatininémie : hyperkaliémie (rhabdomyolyse, risque hyperkalié-
-mique avec la succinylcholine), recherche de signes d’insuffisance rénale ;
-*
-Beta-HCG plasmatique chez les femmes en âge de procréer ;
-*
-Alcoolémie lorsque le contexte fait suspecter une alcoolisation pouvant expliquer ou aggraver l’altéra-
-tion de l’état de conscience ;
-*
-Troponine Ic et Électrocardiogramme : recherche de contusion myocardique.
-Le bilan d’imagerie initial permet de déterminer si une intervention urgente (drainage thoracique, laparoto-
-mie ou thoracotomie d’hémostase, embolisation d’un traumatisme du bassin) est nécessaire. Il comporte
-trois examens répondant chacun à une question. Ils sont réalisés immédiatement, sur le brancard, sans
-mobiliser le patient :
-*
-la radiographie thoracique (de face) recherche un épanchement liquidien ou gazeux de la plèvre ;
-*
-la radiographie du bassin (de face) recherche une fracture ou dysjonction du bassin, orientant le patient,
-le cas échéant, vers une artério-embolisation en urgence en cas de syndrome hémorragique non expliqué
-par une autre origine ;
-*
-l’échographie FAST, qui consiste en une échographie RAPIDE :
--
-abdominale ;
--
-pleurale ;
--
-cardiaque.
-Elle recherche un hémopéritoine, dont la présence, en cas d’instabilité hémodynamique, conduira le
-patient directement au bloc opératoire pour une laparotomie d’hémostase. L’échographie pleurale confir-
-mera un épanchement pleural gazeux ou liquidien. L’échographie cardiaque recherchera un hémopéricarde
-et évaluera son retentissement hémodynamique (tamponnade), une hypokinésie segmentaire. L’acronyme
-FAST (Focused Assesment with Sonography for Trauma) décrit essentiellement la recherche de lésion hémor-
-ragique intrapéritonéale. Son extension eFAST ou FAST extended recherche en plus à caractériser l’état des
-plèvres, du péricarde et de la circulation cérébrale (recherche d’une hypoperfusion cérébrale au niveau des
-artères sylviennes).
-2.3.3. Au-delà de 60 minutes (1 heure) : le bilan lésionnel
-2.3.3.1. Tomodensitométrie corps entier
-La tomodensitométrie ne fait pas partie du bilan initial, mais constitue la base du bilan lésionnel. On réalise
-un scanner corps entier : tout d’abord cérébral sans injection, puis avec injection de produit de contraste
-iodé (cérébral au temps artériel du polygone de Willis/troncs supra-aortiques jusqu’au pelvis, puis temps
-portal abdominopelvien). L’ensemble des zones anatomiques sont examinées en fenêtre parenchymateuse
-et osseuse, avec reconstructions au besoin, afin de rechercher des fractures. L’injection de produit de
-contraste est systématique afin de pouvoir caractériser une extravasation de produit de contraste (aux
-temps artériel, portal et tardif) témoin d’une hémorragie active.
-2.3.3.2. Autres examens
-Des radiographies standards des membres peuvent être demandées en fonction des données de l’examen
-clinique, en cas de suspicion de fracture ou de luxation.
-2.4. Prise en charge thérapeutique
-2.4.1. Traitement des détresses vitales
-Le traitement des détresses circulatoire, ventilatoire et neurologique est concomitant du bilan initial. La
-reprise de l’acronyme ABCDE permet de traiter toute source d’instabilité par ordre de priorité :
-*
-[A]irway (voies aériennes) : désobstruction manuelle, aspiration, canule oro-pharyngée, subluxation
-mandibulaire, intubation oro-trachéale ;
-*
-[B]reathing (ventilation) : exsuflation de pneumothorax sous tension, drainage thoracique, ventilation
-mécanique ;
-*
-[C]irculation (hémodynamique) : hémostase mécanique ou chirurgicale, remplissage vasculaire, trans-
-fusion sanguine, catécholamines ;
-*
-[D]isability (atteinte neurologique) : anesthésie générale et sédation-analgésie, osmothérapie, optimi-
-sation de la perfusion cérébrale ;
-*
-[E]xposure (blessures) : réduction et immobilisation des foyers de fractures, nettoyage des plaies,
-réchauffement par couverture à flux d’air pulsé et accélérateur-réchauffeur de perfusion/transfusion pour
-lutter contre l’hypothermie.
-Les principales indications de l’intubation oro-trachéale chez le patient traumatisé sévère figurent dans le
-tableau 1.
-Les principales causes d’hémorragies sévères sont les lésions abdominales, rétropéritonéales, thoraciques
-et les fractures du bassin mais certaines causes sont cependant sous-estimées et il faut rechercher en cas
-d’hypovolémie persistante : plaie du scalp, épistaxis, et certaines fractures fermées.
-La coagulopathie fait l’objet d’une prise en charge agressive, qui commence par la prévention et le traite-
-ment de l’hypothermie. Cette dernière est un facteur de risque majeur chez le traumatisé sévère, notam-
-ment en aggravant la coagulopathie, et donc l’hémorragie. Le monitorage de la température et le réchauffe-
-ment continu (au minimum la lutte contre l’hypothermie) sont fondamentaux lors de la prise en charge d’un
-patient traumatisé sévère. À cette lutte contre le refroidissement, vient s’ajouter l’administration d’un anti-
-fibrinolytique (acide tranéxamique) dans l’heure suivant le traumatisme, et la correction de l’hypocalcémie
-provenant de la dilution et de la chélation du calcium par les produits sanguins labiles (cf. item 332, 9.).
-2.4.2. Traitement des lésions
-Les interventions chirurgicales sont planifiées avec les équipes spécialisées dans un ordre établi :
-1. Les lésions hémorragiques sont traitées en priorité et en urgence, soit au bloc opératoire, soit par arté-
-riographie et embolisation. Différents moyens permettant de réduire le saignement peuvent être utilisés en
-attendant la réalisation de ce geste d’hémostase (garrots, ceintures pelviennes, pansements compressifs,
-suture de plaies du scalp) ;
-2. Les lésions neurochirurgicales et viscérales sont traitées ;
-3. Les plaies sont lavées, désinfectées et parées au besoin. Le statut vaccinal du patient pour le tétanos est
-vérifié et une sérothérapie et/ou une vaccination antitétanique sont administrées le cas échéant ;
-4. Les luxations sont réduites. Les foyers de fractures sont réduits et font l’objet d’ostéosynthèse ou d’ar-
-throdèse selon leur topographie et leur nature.
-296
-2.4.3. Prévention des complications
-Le patient doit être installé sur un matelas anti-escarres dès les résultats du scanner.
-La mise en place d’un système de compression pneumatique intermittente permet de prévenir la survenue
-de complications thromboemboliques. L’introduction d’une héparinothérapie préventive est à envisager à
-distance de l’hémorragie aiguë, une fois l’hémostase corrigée.
-Une antibiothérapie est administrée pour certaines lésions (fracture ouverte, perforation digestive, trau-
-matisme thoracique grave…).
-Une nutrition entérale est initiée dès que possible afin de prévenir la dénutrition et permettre la cicatrisation.
-Le traitement de la douleur et des complications neuropsychologiques s’intègre avec la réhabilitation
-précoce initiée dès que le patient est stabilisé en réanimation.
-Les patients seront pris en charge en rééducation après la réanimation et suivis pour leurs séquelles soma-
-tiques (incapacité physique fonctionnelle) et psychologiques (syndromes anxio-dépressifs et syndrome de
-stress post-traumatique) afin d’améliorer leur évolution et leur qualité de vie globale.
-","Recommandations formalisées d’experts (RFE) pilotées par la Société française d’anesthésie-réanimation
-(SFAR), disponible sur www.sfar.org :
-[1] avec Société de réanimation de langue française, Société française de médecine d’urgence, Groupe
-d’étude sur l’hémostase et la thrombose. Prise en charge du choc hémorragique. 2014.
-[2] avec Société française de médecine d’urgence. Traumatisme thoracique : prise en charge des
-48 premières heures. 2014.
-[3] avec Association des neuro-anesthésistes-réanimateurs de langue française, Société française de
-médecine d’urgence, Société française de neurochirurgie, Groupe francophone de réanimation et urgences
-pédiatriques, Association des anesthésistes réanimateurs pédiatriques d’expression française. Prise en
-charge des traumatismes crâniens graves à la phase précoce (24 premières heures). 2016.
-[4] avec Société française de médecine d’urgence, Association française d’urologie, Société française de
-chirurgie digestive, Société française de radiologie, Société française de chirurgie orthopédique et trau-
-matologique, Service de santé des armées. Prise en charge des traumatismes pelviens graves à la phase
-précoce (24 premières heures). 2017.
-[5] avec Association des neuro-anesthésistes-réanimateurs de langue française, Société française de
-chirurgie rachidienne, Société française de médecine d’urgence, Société française de chirurgie orthopé-
-dique & traumatologique, Société française de médecine physique et de réadaptation, Service de santé des
-armées. Prise en charge des patients présentant, ou à risque, de traumatisme vertébro-médullaire. 2019.
-Recommandations pour la pratique professionnelle (RPP) pilotée par la Société française d’anesthésie-
-réanimation (SFAR), disponible sur www.sfar.org :
-[6] avec Société francophone de brûlologie, Société française de médecine d’urgence, Association des
-anesthésistes réanimateurs pédiatriques d’expression française. Prise en charge du brûlé grave à la phase
-aiguë chez l’adulte et l’enfant. 2019.",2020,"Savoir définir un traumatisé sévère
-Connaître les causes de mortalité après un traumatisme
-Savoir identifier et caractériser les lésions cliniquement
-Connaître les critères de gravité d'un traumatisé
-Connaître les principes de prise en charge préhospitalère des lésions
-Connaître les principes de réanimation préhospitalère
-Connaître les principes de la prise en charge diagnostique à l'arrivée à l'hôpital
-Connaître les principes de la prise en charge thérapeutique à l'arrivée à l'hôpital
-Connaître les principales complications du traumatisé sévère à court, moyen et long termes
-Connaître la définition d'une brûlure et de sa profondeur
-Connaître la définition d'un syndrome d'inhalation de fumées d'incendie
-Comprendre le mécanisme des complications après une brûlure
-Comprendre la physiopathologie du syndrome d'inhalation de fumée d'incendie
-Savoir diagnostiquer une brûlure et la surface brûlée
-Identifier une brûlure superficielle et une brûlure profonde
-Savoir reconnaître les signes de gravité d'une brûlure chez l'adulte et l'enfant
-Identifier une brûlure des voies aériennes
-Connaître les principes des soins locaux de brûlure
-Connaître les principes de la prise en charge d'un brûlé (hors soins locaux)
-Connaître les principes de prise en charge d'un syndrome d'inhalation de fumées d'incendie
-Connaître la physiopathologie de l'atteinte des organes intrathoraciques après traumatisme
-Savoir suspecter un traumatisme thoracique
-Savoir demander les examens complémentaires permettant le diagnostic de traumatisme thoracique
-Savoir reconnaître un hémothorax et un pneumothorax sur une radiographie
-Radiographies d'hémothorax et de pneumothorax
-Savoir identifier les situations indiquant le recours à une thérapeutique de sauvetage
-Connaître les principes de la prise en charge d'un traumatisme thoracique
-Connaître la physiopathologie de l'atteinte des organes abdominaux (intra et rétropéritonéaux) après traumatisme
-Savoir suspecter un traumatisme abdominal
-Savoir demander les examens d'imagerie permettant le diagnostic de traumatisme abdominal
-Savoir identifier le recours à une thérapeutique d'hémostase en urgence chez l'adulte et l'enfant
-Connaître les principes de la prise en charge d'un traumatisme abdominal chez l'adulte et l'enfant
-Connaître les mécanismes lésionnels
-Connaître la classification des fractures ouvertes
-Savoir suspecter à l'anamnèse et à l'examen clinique une lésion osseuse
-Savoir suspecter des complications vasculaires et neurologiques
-Connaître les indications et savoir demander un examen d'imagerie devant un traumatisé des membres et/ou du bassin
-Connaître la sémiologie radiologique de base des fractures diaphysaires simples des os longs
-Identifier une fracture diaphysaire des os longs
-Savoir rechercher des complications précoces
-Connaître des principes de prise en charge initiale d'une fracture
-Connaître les principes de prise en charge des fractures ouvertes et fermées
-Connaître les principes de prise en charge des principales complications des fractures
-Connaître la définition de la fracture du rachis et de l'atteinte médullaire associée
-Connaître les conséquences hémodynamiques et ventilatoires de l'atteinte médullaire selon le niveau lésionnel
-Circonstances, signes fonctionnels et physiques, savoir effectuer un examen neurologique complet et renseigner l'échelle ASIA
-Connaître les symptômes devant faire suspecter une lésion médullaire
-Connaître les indications et les modalités des principes d'immobilisation
-Connaître les indications d'imagerie devant un traumatisé du rachis ou vertébro-médullaire
-Connaître les principes de prise en charge des traumatismes du rachis
-Connaître la définition d'un traumatisé crânien léger, modéré et grave
-Connaître les principes physiopathologiques des lésions cérébrales traumatiques
-Savoir suspecter et diagnostiquer un traumatisme crânien
-Identifier le traumatisé crânien grave
-Identifier le traumatisé crânien nécessitant une évaluation spécialisées
-Savoir demander à bon escient l'examen d'imagerie pertinent devant un traumatisme crânien à la phase aiguë
-Tomodensitométrie d'hématome extra-dural, sous-dural et contusions cérébrales
-Connaître les principes de prise en charge des traumatisés crâniens"
-Chirurgie maxillo-faciale,,,,,,,,,,
-Chirurgie orale,,,,,,,,,,
-Chirurgie orthopédique et traumatologique,,,,,,,,,,
-Chirurgie pédiatrique,,,,,,,,,,
-"Chirurgie plastique, reconstructrice et esthétique",,,,,,,,,,
-Chirurgie thoracique et cardiovasculaire,,,,,,,,,,
-Chirurgie vasculaire,,,,,,,,,,
-Chirurgie viscérale et digestive,,,,,,,,,,
-Gynécologie-obstétrique,,,,,,,,,,
-Neurochirurgie,,,,,,,,,,
-Ophtalmologie,,,,,,,,,,
-Oto-rhino-laryngologie – chirurgie cervico-faciale,,,,,,,,,,
-Urologie,,,,,,,,,,
-Allergologie,,,,,,,,,,
-Anatomie et cytologie pathologiques,,,,,,,,,,
-Anesthésie-réanimation,,,,,,,,,,
-Dermatologie et vénéréologie,,,,,,,,,,
-Endocrinologie-diabétologie-nutrition,,,,,,,,,,
-Génétique médicale,,,,,,,,,,
-Gériatrie,,,,,,,,,,
-Gynécologie médicale,,,,,,,,,,
-Hématologie,,,,,,,,,,
-Hépato-gastro-entérologie,,,,,,,,,,
-Maladies infectieuses et tropicales,,,,,,,,,,
-Médecine cardiovasculaire,,,,,,,,,,
-Médecine d’urgence,,,,,,,,,,
-Médecine et santé au travail,,,,,,,,,,
-Médecine générale,,,,,,,,,,
-Médecine intensive-réanimation,,,,,,,,,,
-Médecine interne et immunologie clinique,,,,,,,,,,
-Médecine légale et expertises médicales,,,,,,,,,,
-Médecine nucléaire,,,,,,,,,,
-Médecine physique et de réadaptation,,,,,,,,,,
-Médecine vasculaire,,,,,,,,,,
-Néphrologie,,,,,,,,,,
-Neurologie,,,,,,,,,,
-Oncologie,,,,,,,,,,
-Pédiatrie,,,,,,,,,,
-Pneumologie,,,,,,,,,,
-Psychiatrie,,,,,,,,,,
-Radiologie et imagerie médicale,,,,,,,,,,
-Rhumatologie,,,,,,,,,,
-Santé publique,,,,,,,,,,
-Biologie médicale,,,,,,,,,,
+Ces différentes prises en charge sont à adapter à l'état et l'évolution clinique du patient. La pluridisciplinarité intègre la participation du patient et son éducation (notamment au niveau cutané et urinaire).",,,Neurochirurgie,
