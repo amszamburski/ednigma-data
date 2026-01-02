@@ -1,8 +1,1242 @@
-﻿Item,Sub_item,Title,LISA,Objectives,Keypoints,Core,References,Year,Specialty,Definitions
-334,,"Prise en charge immédiate pré-hospitalière
-et à l’arrivée à l’hôpital, évaluation des
-complications chez :
-un traumatisé sévère","Savoir définir un traumatisé sévère
+Specialty,Item,Sub_item,Title,Objectives,Keypoints,Definitions,Core,References,Year,LISA
+Anesthésie-Réanimation,4,,"Qualité et sécurité des soins.
+La sécurité du patient
+La gestion des risques
+Les événements indésirables associés
+aux soins (EIAS)
+Démarche qualité et évaluation
+des pratiques professionnelles","Définir les notions de qualité, sécurité, événement indésirable grave (EIG), événement porteur de
+risque (EPR), résilience.
+Présenter les données quantitatives sur la fréquence et la nature des EIG dans le système de soins ;
+enquêtes nationales sur les EIG, évolution au cours des dix dernières années.
+Connaître les définitions des termes suivants : antisepsie, asepsie, désinfection, décontamination,
+stérilisation.
+Connaître les procédures d’hygiène des mains en milieu de soins, et d’antisepsie de la peau saine, de
+la peau lésée et des muqueuses.
+Connaître et expliquer les mesures préventives des Infections Associées aux Soins (IAS) : infection
+urinaire, infection sur cathéter vasculaire, pneumonie, infection du site opératoire (ISO).
+Exposer les grands principes d’organisation de la sécurité sanitaire.
+Définir et pondérer les grandes composantes de la gestion des risques ; préciser l’importance de la
+composante facteurs humains et organisationnels (FHO) du risque associé aux soins.
+Préciser les différentes missions relevant du ministère chargé de la santé et de la HAS.","La gestion des risques est une approche récente en médecine, issue du monde de l’industrie et de l’aviation.
+La sécurité des soins fait l’objet d’exigences réglementaires.
+Le but de la gestion des risques est d’encadrer l’erreur humaine en fiabilisant le système (mise en place de
+barrières de prévention, de récupération et d’atténuation).
+Le développement d’une culture de sécurité est indispensable à la gestion des risques et passe par la déclaration
+des événements indésirables.
+Les méthodes d’analyse du risque, a priori ou a posteriori, permettent de prioriser les actions à mener.
+L’efficacité des mesures correctrices réalisées doit être évaluée (outil dynamique).
+En France et dans d’autres pays européens la déclaration des événements indésirables graves est obligatoire.
+L’antisepsie est un terme réservé au traitement des plaies, la désinfection vise à prévenir toute infection de la
+peau saine.
+La prévention des infections associées aux soins est indissociable de l’hygiène des mains.
+Les mesures de prévention des IAS reposent sur l’application rigoureuse des mesures d’hygiène, l’élaboration et
+l’application de conduites à tenir précises en cas de colonisation ou infection à bactéries multirésistantes.","1.1. Qualité
+Selon l’OMS il s’agit d’une « démarche qui doit permettre de garantir à chaque patient la combinaison
+d’actes diagnostiques et thérapeutiques qui lui assurera le meilleur résultat en termes de santé, confor-
+mément à l’état actuel de la science médicale, au meilleur coût pour un même résultat, au moindre risque
+iatrogène et pour sa plus grande satisfaction en termes de procédures, de résultats et de contacts humains
+à l’intérieur du système de soins » [1].
+1.2. Sécurité
+La sécurité des soins est basée sur le principe de ne pas nuire aux malades, c’est-à-dire l’absence pour
+un patient d’atteinte inutile ou potentielle associée aux soins de santé [1]. Elle s’intègre dans la culture de
+sécurité, « ensemble cohérent et intégré de comportements individuels et organisationnels » dont l’objectif
+est la réduction des dommages liés aux soins [2].
+1.3. Événement indésirable grave (EIG)
+Constitue un événement indésirable associé aux soins (EIAS) tout incident préjudiciable à un patient hospi-
+talisé survenu lors de la réalisation d’un acte de prévention, d’une investigation ou d’un traitement [3]. Il
+est considéré comme grave dans les circonstances suivantes :
+*décès inattendu, perte permanente d’une fonction ne résultant ni de l’évolution naturelle de la maladie,
+ni du terrain du patient ;
+*mise en jeu du pronostic vital ;
+*hospitalisation ou prolongation d’hospitalisation.
+1.4. Événement porteur de risque (EPR)
+Événement n’ayant pas engendré de conséquence grave pour le patient (« presque accident ») dont l’ana-
+lyse méthodique favorisera la compréhension des causes de survenue, mais aussi celle des modalités de
+la récupération ayant permis à temps sa détection et son traitement [1].
+1.5. Aléa thérapeutique
+Ce terme désigne l’ensemble des dommages causés à un patient au cours d’un acte médical en l’absence
+de faute ou d’erreur. C’est un événement dont la survenue potentielle peut être suspectée, mais que l’on
+ne peut prévoir à l’avance. Il doit être discerné de l’erreur médicale qui elle met en cause l’acte médical ou
+l’intervention du médecin et peut relever de la responsabilité de ce dernier. La loi Kouchner du 4 mars 2002
+a ouvert un droit nouveau : l’indemnisation des accidents médicaux non fautifs, par la solidarité nationale.
+1.6. Résilience
+Mesure dans laquelle un système est capable, en permanence, de prévenir, de détecter, d’atténuer les
+dangers ou les incidents, ou d’y remédier [1].
+1.7. Antisepsie
+Il s’agit selon l’Association française de normalisation (Afnor), d’une « opération au résultat momentané
+permettant, au niveau des tissus vivants, dans la limite de leur tolérance, d’éliminer ou de tuer tous les
+micro-organismes et/ou d’inactiver les virus en fonction des objectifs fixés. Le résultat de cette opéra-
+tion est limité aux micro-organismes et/ou aux virus présents au moment de l’opération ». Le Comité euro-
+péen de normalisation indique que ce terme est réservé au traitement des infections constituées, à savoir
+une plaie.
+1.8. Aseptie
+Selon l’Afnor, l’aseptie constitue un « ensemble de mesures propres à empêcher tout apport exogène de
+micro-organismes ». Le but est de prévenir toute contamination de plaie ou autres sites sensibles à l’infec-
+tion tant en salle d’opération, qu’au niveau de l’unité de soins, lors de traitements ou d’explorations.
+1.9. Désinfection
+C’est une « opération au résultat momentané permettant d’éliminer ou de tuer tous les micro-organismes
+et/ou d’inactiver les virus indésirables portés par des milieux inertes contaminés, en fonction des objectifs
+fixés. Le résultat de cette opération est limité aux micro-organismes et/ou aux virus présents au moment de
+l’opération ». Ce terme désigne donc une opération visant à prévenir toute infection de la peau saine selon
+le comité européen de normalisation.
+1.10. Décontamination
+Ce terme se définit par un traitement réalisé sur les matériaux souillés par des matières organiques afin
+de réduire la quantité des micro-organismes et/ou virus et de faciliter le nettoyage ultérieur. La déconta-
+mination correspond à toute opération au résultat momentané, permettant d’éliminer, de tuer ou d’inhiber
+les micro-organismes indésirables, en fonction des objectifs fixés. Si le produit ou le procédé est sélectif,
+ceci doit être précisé. Le résultat de cette opération est limité aux micro-organismes présents au moment
+de l’opération. L’usage du terme « désinfection » en synonyme de « décontamination » est prohibé (Afnor).
+1.11. Stérilisation
+C’est la mise en œuvre de méthodes visant à éliminer ou tuer tous les micro-organismes présents sur les
+milieux inertes contaminés. Le résultat de cette opération est l’état de stérilité.
+","2. Épidémiologie
+Les deux Enquêtes nationales sur les événements indésirables graves associés aux soins réalisées en 2004
+(ENEIS 1) et en 2009 (ENEIS 2) ont cherché à évaluer l’importance des EIG liés au processus de soins sur
+plus de 8 000 séjours patients et d’en connaître la part évitable. Il s’agit d’une étude d’incidence sur une
+population ouverte de patients hospitalisés et observés dans les établissements de santé publics et privés
+pendant 7 jours.
+Concernant la période d’hospitalisation, l’enquête ENEIS 2 a rapporté :
+*275 000 à 395 000 EIG par an, soit 6,2 EIG pour 1 000 jours d’hospitalisation ;
+*environ un EIG tous les 5 jours dans un service de 30 lits ;
+*un tiers des EIG sont considérés comme évitables ;
+*trois grandes causes ont été identifiées : les actes invasifs, les infections nosocomiales et les accidents
+médicamenteux (dont les erreurs de prescription et d’administration).
+La comparaison des résultats des deux enquêtes (ENEIS 1 et 2) ne montre pas de différence en termes de
+fréquence d’EIG, de proportion d’EIG évitables et de gravité de leurs conséquences. Ces deux enquêtes
+confirment la tendance internationale d’une fréquence élevée des EIG et de la stabilité des constats dans
+le temps [1] [4] [5]. La 3e
+enquête (ENEIS 3) a eu lieu à partir de 2019. Les résultats sont attendus en 2022.
+3. Procédures d’hygiène et d’antisepsie
+3.1. Hygiène des mains
+La prévention des infections liées aux soins est indissociable de l’hygiène des mains. L’HAS a émis en 2010
+des recommandations relatives à l’hygiène des mains en cabinet médical et paramédical [5] que l’on peut
+assimiler à des « milieux de soins»:
+*il est recommandé de procéder à un lavage des mains au savon doux à l’arrivée au cabinet, au départ du
+cabinet et en cas de mains visiblement souillées ;
+*il est recommandé de se désinfecter les mains par friction hydro-alcoolique entre chaque patient et en
+cas d’interruption des soins pour un même patient. Le délai de désinfection recommandé est de 30 secondes
+au minimum. Les mains sont séchées par friction à l’air libre et sans aucun rinçage ;
+*à défaut d’utiliser un produit hydro-alcoolique, compte tenu des problèmes de tolérance cutanée des
+savons antiseptiques, il est recommandé d’utiliser un savon doux en respectant un savonnage d’une durée
+minimale de 10 secondes ;
+*en présence de poudre sur les mains au retrait des gants poudrés, le lavage des mains au savon doux
+est recommandé ;
+*il est recommandé d’utiliser des essuie-mains à usage unique, par exemple en papier absorbant. Afin
+d’éviter une nouvelle contamination, l’essuie-mains sera utilisé pour refermer le robinet avant d’être jeté
+dans une poubelle sans couvercle ou à ouverture non manuelle ;
+*avant une procédure de lavage des mains, il est recommandé de retirer les bijoux de mains et de
+poignets. Les ongles sont coupés court, sans ajout de faux ongles ni vernis ;
+*l’utilisation d’une crème émolliente est recommandée quotidiennement, en dehors des périodes de
+soins aux patients, pour éviter les dermites irritatives et la sécheresse cutanée, notamment en cas de
+lavage régulier au savon doux ou en hiver.
+3.2. Précautions standard et complémentaires
+Les mesures de précaution ont pour objectif de protéger le soignant d’une exposition aux micro-organismes
+véhiculés par le patient, mais aussi le patient de micro-organismes qui pourraient être transmis par le
+soignant : s’il est infecté et contagieux (ex. : grippe), ou s’il a été au contact de micro-organismes véhiculés
+par d’autres patients (infections croisées entre patients).
+Il s’agit de précautions standard et complémentaires :
+3.2.1. Précautions standard
+C’est l’ensemble des mesures à appliquer pour tous les patients par tous les soignants pour toute prise
+en charge :
+1. hygiène des mains (cf. supra) ;
+2. port de protections individuelles (cf. infra) ;
+3. entretien de l’environnement et du matériel, gestion des déchets, du linge et transport des analyses
+biologiques ;
+4. prévention des accidents d’exposition au sang et milieux biologiques (AES) ;
+5. visiteurs : hygiène des mains.
+Protections individuelles :
+*Gants à usage unique (1 acte = 1 paire de gants) : si contact avec peau lésée, avec muqueuse, avec
+liquide biologique dont objets souillés, ou si lésions des mains du soignant ; à retirer immédiatement
+après le soin en veillant de ne pas souiller l’environnement avec les gants (cas fréquents du soignant se
+sentant protégé et qui ne fait plus attention à la contamination de l’environnement, c’est pourquoi, il n’est
+pas recommandé de mettre des gants tout le temps lorsque l’on touche un patient mais uniquement dans
+certains cas rappelés ci-dessus) ;
+*tablier ou surblouse à usage unique (1 acte = 1 tablier) : soins mouillants/souillants, risque de projec-
+tion. Ce matériel sert à protéger la tenue du soignant ;
+*masque chirurgical (avec liens à nouer) ou médical ou de contact (avec élastiques à placer derrière les
+oreilles) : 1 masque baissé = 1 masque jeté. Si risque de projection ou d’aérosolisation (geste sur les voies
+aériennes du patient dont kinésithérapie, fibroscopie, intubation, toux du patient ou du soignant) ;
+*lunettes ou visières de protection : si risque de projection ou d’aérosolisation.
+3.2.2. Précautions complémentaires
+Elles font l’objet d’une prescription médicale.
+*précautions complémentaires contact : chambre seule
++protections individuelles selon les recomman-
+dations standard (cf. supra) ;
+*précautions complémentaires contact adaptée au Clostridium difficile : idem mais le port des gants et
+d’une surblouse à manches longues est obligatoire dès l’entrée dans la chambre ; après les soins, au lieu
+d’appliquer du SHA il faut pour éliminer les spores de clostridium, soit se laver les mains avec un savon
+doux, sécher puis mettre du SHA, soit se laver les mains avec un savon antiseptique ;
+*précautions complémentaires gouttelettes : idem que les précautions contact mais avec port d’un
+masque chirurgical ou médical dès l’entrée dans la chambre ;
+*précautions complémentaires air : chambre seule en pression négative (si possible), ou avec dispositif
+de filtration de l’air, porte fermée. Port d’un masque FFP2 avant d’entrer dans la chambre ;
+*précaution complémentaire air et contact « virus émergent », par exemple fièvres hémorragiques virales
+(virus Ebola), virus respiratoires épidémiques à mortalité élevée (Syndrome Respiratoire Aigu Sévère (SRAS
+lié au virus SRAS-Cov-1 ou SRAS-Cov-2) : avant d’entrer dans la chambre, port d’un masque FFP2, charlotte,
+lunette ou visière de protection, surblouse à manche longue, gants à manchette longue.
+Antisepsie de la peau et des muqueuses
+L’antisepsie de la peau et des muqueuses aboutit à la réduction du nombre de micro-organismes présents
+au niveau des tissus vivants, mais ce résultat est momentané. Pour une efficacité optimale, il est important
+de respecter les conditions d’utilisation des antiseptiques. La détersion, le rinçage, le séchage, l’applica-
+tion d’un antiseptique et le séchage à l’air libre sont les cinq temps de l’antiseptie.
+*Il est recommandé, de manière générale, de recourir aux antiseptiques à large spectre d’activité (bigua-
+nides, chlorhexidine, dérivés halogénés iodés et chlorés, alcools) et aux seuls antiseptiques à spectre
+étroit qui ont fait la preuve d’une efficacité clinique (nitrate d’argent par exemple qui est actif sur les bacté-
+ries essentiellement, peu sur les virus ou les champignons) ;
+*il est recommandé de ne pas utiliser les dérivés mercuriels en raison de leur toxicité ;
+*lors de leur utilisation, il est recommandé de consulter la notice des produits afin de respecter le délai
+d’action de l’antiseptique choisi (à titre indicatif, il est de l’ordre de 1 minute pour les halogénés iodés et
+de l’ordre de 2 minutes pour les alcools) et d’attendre le séchage spontané de l’antiseptique utilisé (AMM) ;
+*il est recommandé, en dehors des associations synergiques (alcool et halogénés par exemple), de ne
+pas mélanger les antiseptiques entre eux ou avec d’autres produits (accord professionnel).
+En peau saine, il est recommandé, pour la préparation cutanée des patients avant un geste invasif, d’uti-
+liser un produit combiné alcoolique, soit la chlorhexidine alcoolique, soit la polyvidone iodée alcoolique.
+Sur une peau lésée, l’utilisation des solutions antiseptiques doit être prudente.
+*En l’absence de preuve clinique de leur efficacité, le groupe de travail ne recommande pas l’utilisation
+des antiseptiques à visée thérapeutique dans les infections cutanées bactériennes primitives et secon-
+daires ou à visée préventive de leur survenue, que la plaie soit propre ou souillée ;
+*en cas de choix d’utilisation d’un antiseptique dans ces indications, aucun soluté alcoolique fortement
+dosé ne doit être utilisé en peau lésée ; la polyvidone iodée aqueuse, les solutés chlorés (soluté de Dakin)
+et la chlorhexidine peuvent être utilisés.
+L’antisepsie des muqueuses est réalisée à l’aide de la polyvidone iodée aqueuse (sauf chez l’enfant de
+moins de 5 ans) de la chlorhexidine ou de solutés chlorés (soluté de Dakin). Les solutions alcooliques sont
+à proscrire sur les muqueuses.
+Ainsi chaque service de soins doit choisir parmi les produits antiseptiques à large spectre d’activité afin
+de disposer d’un « panier de soins antiseptiques »  qui réponde aux exigences de soins en peau
+saine, en peau lésée et sur les muqueuses, quel que soit l’âge du patient.
+4. Mesures préventives
+des infections associées aux soins
+Par définition, une infection est dite associée aux soins (IAS) si elle survient au cours ou au décours d’une
+prise en charge (diagnostique, thérapeutique, palliative, préventive ou éducative) d’un patient, et si elle
+n’était ni présente, ni en incubation au début de la prise en charge [6].
+Lorsque l’état infectieux au début de la prise en charge n’est pas connu précisément, un délai d’au moins
+48 heures ou un délai supérieur à la période d’incubation est couramment accepté pour définir une IAS.
+Toutefois, il est recommandé d’apprécier dans chaque cas la plausibilité de l’association entre la prise en
+charge et l’infection.
+Pour les infections du site opératoire, on considère habituellement comme associées aux soins les infec-
+tions survenant dans les 30 jours suivant l’intervention ou, s’il y a mise en place d’un implant, d’une
+prothèse ou d’un matériel prothétique dans l’année qui suit l’intervention.
+Toutefois, et quel que soit le délai de survenue, il est recommandé d’apprécier dans chaque cas la plausi-
+bilité de l’association entre l’intervention et l’infection, notamment en prenant en compte le type de germe
+en cause.
+Trois grands facteurs de risque d’acquisition d’une IAS sont identifiés :
+*l’environnement : la résidence dans un secteur de soins ;
+*le soin : la réalisation d’un acte de soin à visée diagnostique, thérapeutique ou de dépistage ;
+*le terrain du patient : l’existence d’une pathologie sous-jacente.
+La prévalence des IAS dans les établissements de santé est de 5 % [7].
+Les mesures de prévention reposent sur :
+*l’application rigoureuse des mesures d’hygiène ;
+*l’élaboration et l’application de conduites à tenir précises en cas de colonisation ou infection à bacté-
+ries multirésistantes ;
+*l’encadrement de la prescription et de l’utilisation des antibiotiques.
+La dernière Enquête nationale de prévalence (ENP) des infections nosocomiales et des traitements anti-
+infectieux en établissement de santé a été réalisée en 2017 et publiée en 2019 [12].
+Quatre sites d’infection représentent plus de 70 % des IAS :
+*infections urinaires : 28,5 % ;
+*infections du site opératoire : 15,9 % ;
+*pneumonies : 15,6 % ;
+*bactériémies : 11,4 %.
+Quatre bactéries représentent plus de 50 % des IAS :
+*Escherichia coli : 23,6 % ;
+*Staphylococcus aureus : 13,8 % ;
+*Enterococcus faecalis : 6,5 % ;
+*Pseudomonas aeruginosa : 6,3 %.
+Les IAS impliquent des germes plus fréquemment résistants aux antibiotiques que pour les infections
+communautaires. On parle de Bactéries multi résistantes aux antibiotiques (BMR) pour des bactéries qui
+conjuguent plusieurs mécanismes de résistance à plusieurs familles d’antibiotiques, ce qui limite les possi-
+bilités thérapeutiques en cas d’infection.
+Parmi les bactéries les plus fréquemment responsables d’IAS, les proportions de BMR sont les suivantes :
+*Staphylococcus aureus : 27 % sont résistants à la méticilline (SAMR) ;
+*Pseudomonas aeruginosa : 19 % sont résistants à la ceftazidime, 13 % aux carbapénèmes ;
+*Escherichia coli : 18 % sont résistants aux C3G, 15 % ont une bétalactamase à spectre élargie (BLSE).
+De plus, apparaissent aujourd’hui des Bactéries hautement résistantes aux antibiotiques émergentes
+(BHRe) qui posent des problèmes épidémiques dans les services car les mécanismes de résistance sont
+plasmidiques et transférables, et donc des problèmes de santé publique en raison du profil de résistance
+antibiotique si ces germes se répandent à large échelle. Ils restent heureusement rares et concernent
+principalement :
+*les S.aureus de sensibilité diminuée aux glycopeptides (GISA pour glycopetide-intermediate S.aureus) :
+0,7 % des S.aureus ;
+*les entérocoques résistants aux glycopeptides (ERG) : Enterococcus faecalis (0,4 %) et faecium (5 %) ;
+*les entérobactéries productrices de carbapénémase (EPC).
+Ces BHRe restent rares en France mais leur apparition chez un patient nécessite des mesures d’isolement
+strictes du patient et des patients contacts du service car l’émergence de telles BHRe est très préoccupante.
+La lutte contre l’acquisition des BMR et BHRe implique le bon usage des antibiotiques, mais aussi l’en-
+semble des mesures préventives d’acquisition des infections (règles d’hygiène et d’asepsie), l’ablation
+précoce dès que possible des dispositifs médicaux invasifs (sondes, cathéters…), ainsi que le dépistage de
+ces germes résistants dans les secteurs d’hospitalisation à risque (réanimation) et selon les recommanda-
+tions du service d’hygiène de l’établissement.
+4.1. Infection urinaire
+La colonisation du bas appareil urinaire se fait généralement lors de la pose de la sonde urinaire, par voie
+endoluminale liée au « système ouvert », par voie extraluminale liée aux techniques actuelles de sondage
+avec système clos. Les bactéries colonisant le méat peuvent migrer progressivement vers l’urètre et la
+vessie par capillarité dans le fin film muqueux contigu à la surface externe de la sonde ou enfin, par voie
+lymphatique ou hématogène.
+Les mesures de prévention sont les suivantes :
+*limiter l’indication des sondages vésicaux et leur durée ;
+*respecter une technique aseptique de pose d’un système clos de drainage ;
+*respecter les règles d’entretien d’une sonde urinaire et d’un système de drainage clos ;
+*favoriser l’auto-sondage pluriquotidien pour les vessies neurologiques ;
+*mesurer le résidu mictionnel par échographie (bladder scan) plutôt que par sondage en aller-retour ;
+*préférer l’étui pénien au sondage (en fonction du résidu mictionnel) ;
+*suivi épidémiologique et microbiologique pour détecter les phénomènes épidémiques.
+4.2. Infection sur cathéter vasculaire
+Sur le plan physiopathologique, la contamination du cathéter est possible par voie exoluminale, endo-
+luminale ou hématogène (greffe sur le cathéter d’un germe ayant pénétré le courant circulatoire par
+une autre voie). Pour prévenir toute infection de cathéter périphérique, il est important de respecter les
+mesures suivantes :
+*asepsie lors de la pose ;
+*changement du cathéter périphérique toutes les 72 heures : il n’est plus systématique mais seulement
+en cas de signes locaux ou généraux évoquant une infection ;
+*utilisation préférentielle de matériels métalliques ou en téflon ;
+pansement occlusif ;
+procédure écrite et régulièrement évaluée.
+Afin de limiter la survenue d’une infection sur cathéter veineux central, il est nécessaire de :
+*limiter les indications de pose et la durée ;
+*disposer de protocole écrit de pose, d’entretien, et de diagnostic d’ILC ;
+*planifier la pose du cathéter par un opérateur expérimenté ;
+*respecter les règles d’asepsie rigoureuse de type chirurgical lors de la pose et de l’entretien.
+
+4.3. Pneumonie
+Cette pathologie est favorisée par la ventilation assistée invasive (présence d’un tube trachéal) et par le
+terrain du patient. La contamination se fait par colonisation de l’oropharynx surtout d’origine digestive par
+suite, la colonisation de l’arbre trachéo-bronchique devient alors propice au développement de la pneumo-
+nie par l’altération des mécanismes de défense du poumon (toux, clairance mucociliaire).
+En réanimation, la prévention du risque infectieux exogène repose sur l’application des mesures suivantes :
+*friction hydro-alcoolique des mains avant et entre chaque soin pendant 30 secondes, à défaut lavage
+des mains au savon doux ;
+*port de gants stériles pour la réalisation des aspirations endotrachéales ;
+*utilisation d’eau stérile pour les nébulisations ;
+*utilisation de circuits de ventilation à usage unique.
+La prévention du risque infectieux endogène repose sur l’application des mesures suivantes [8] :
+*éviction de la ventilation invasive chaque fois que possible (ventilation non invasive, oxygénothérapie
+nasale à haut débit) ;
+*limiter les doses et les durées d’administration des hypnotiques et analgésiques liés à la
+ventilation mécanique ;
+*envisager régulièrement le sevrage de la ventilation invasive ;
+*prévention de l’inhalation de liquide gastrique (position proclive à 30°, sondes gastriques de
+faible diamètre) ;
+*prévention de l’inhalation des sécrétions oropharyngées (vérification régulière de la pression du ballon-
+net endotrachéal, décontamination oro-pharyngée à la chlorhexidine, aspiration régulière des sécrétions
+sous-glottiques à l’aide de sondes d’intubation adaptées) ;
+*prévention de la colonisation des voies aériennes inférieures (la décontamination digestive sélec-
+tive réalisée à l’aide d’une antibiothérapie systémique de courte durée est recommandée dans
+certaines conditions) ;
+*respect des mesures générales (alimentation entérale précoce, usage raisonné des antibiotiques).
+Pour les patients relevant de la chirurgie, la kinésithérapie est fortement conseillée en pré- et post-opératoire.
+L’arrêt du tabac et le lever précoce contribuent également à éviter la survenue d’une infection pulmonaire.
+4.4. Infection du site opératoire
+Le mode de contamination se fait par voie endogène ou exogène durant la période péri-opératoire. Les
+facteurs favorisants sont liés au patient, aux conditions opératoires et au geste opératoire.
+Les mesures préventives se résument à :
+*
+limiter au maximum la durée du séjour pré-opératoire ;
+*
+dépister et traiter des infections préexistantes ;
+*
+réaliser une préparation cutanée ;
+*
+assurer un équilibre glycémique chez le patient diabétique.
+Au bloc opératoire, sur le plan anesthésique une antibioprophylaxie est réalisée 30 minutes avant l’inci-
+sion chirurgicale. Elle vise à diminuer le taux d’infections du site opératoire, en rapport avec une conta-
+mination per-opératoire. Elle n’a pas pour but de prévenir les infections à distance du site opératoire. Les
+recommandations formalisées d’experts de la Société française d’anesthésie-réanimation (SFAR) de 2017
+précisent les modalités de l’antibioprophylaxie et le choix de l’antibiotique selon l’intervention prévue [9].
+La lutte contre l’hypothermie au moyen d’une couverture à air pulsé ou autres dispositifs est réalisée durant
+l’opération.
+Sur le plan chirurgical, une désinfection cutanée du champ opératoire est effectuée au préalable par l’in-
+firmière de bloc opératoire. Parallèlement, le chirurgien procède à une désinfection chirurgicale des mains
+par friction hydro-alcoolique et au port d’une casaque et de gants stériles. Du matériel stérilisé est utilisé
+en cours d’intervention.
+En post-opératoire, une asepsie rigoureuse lors de la manipulation des drains et de la réalisation des
+pansements est pratiquée. Par la suite une surveillance du site opératoire est assurée à l’occasion du
+suivi chirurgical.
+5. Principes d’organisation de la sécurité
+sanitaire et comparaison entre pays occidentaux
+Le ministère des affaires sociales et de la santé et la Haute Autorité de Santé (HAS) participent à l’organisa-
+tion de la sécurité sanitaire qui s’organise autour de quatre principes généraux [10] :
+5.1. Principe d’évaluation
+Il représente la capacité de détection et d’analyse des risques du système de soins grâce aux réseaux
+sentinelles (via les agences nationales), à la certification des établissements de santé, aux procédures
+d’évaluation des produits de santé, etc.
+Cinq agences nationales sont impliquées dans la surveillance et l’alerte sanitaire (figure 1).
+5.2. Principe de précaution
+Approche rationnelle du risque cherchant à intégrer les risques mal estimés et consistant à prendre des
+mesures face à un risque potentiel évalué selon l’état de la technique et de la science.
+5.3. Principe d’indépendance
+Ce principe consiste à éviter les conflits d’intérêts :
+*
+en dissociant les fonctions de production de soins et des produits de santé de celles de leur contrôle ;
+*
+en séparant les entités chargées de l’élaboration des règles en termes de sécurité des soins de celles
+chargées de l’évaluation de leur application dans les organisations et les pratiques.
+5.4. Principe de transparence
+La transparence a pour but de susciter des débats et de réviser les décisions prises dans un contexte incer-
+tain et évolutif, comme c’est le cas en santé publique, de façon à les améliorer. Elle impose donc la commu-
+nication des établissements de santé sur leurs résultats concernant la qualité et la sécurité des soins grâce
+par exemple aux Indicateurs pour l’amélioration de la qualité et de la sécurité des soins (IPAQSS), etc., et
+prend en compte l’avis des usagers.
+Le décret du 25 novembre 2016 précise que tout professionnel ou établissement de santé ayant constaté un
+EIG lié à des soins doit en faire la déclaration à l’Agence régionale de santé (ARS) qui selon la gravité pourra
+elle-même alerter le département des urgences sanitaires [3]. Chaque établissement de santé possède un
+système facilitant la déclaration de l’EIG, encadré par le service qualité de l’établissement.
+6. Grandes composantes
+de la gestion des risques
+La gestion des risques est récente en médecine et est issue de l’industrie et de l’aviation civile. Le but d’une
+démarche de gestion des risques est d’assurer la sécurité des patients et passe par la diminution du risque
+de survenue d’EIAS.
+Deux approches sont à distinguer :
+*l’approche a priori (démarche préventive, consistant à l’identification des risques avant la survenue
+d’un EIAS) tels que les cartographies de risques, les audits par rapport à un référentiel, le suivi d’indica-
+teurs, etc. ;
+*l’approche a posteriori (démarche réactive, c’est-à-dire l’analyse et la mise en place de mesures correc-
+tives suite à la survenue d’un EIAS) tels que les revues de morbi-mortalité (RMM), les Comités de retour
+d’expérience (CREX) ou la procédure d’accréditation des médecins par l’HAS.
+La gestion des risques utilise des outils dynamiques, tel que le cycle d’amélioration continue de la qualité
+représenté par la roue de Deming ou PDCA (Plan, Do, Check, Act) :
+*Plan : analyse de la situation à risque (identification et évaluation des risques selon la fréquence de
+survenue et la gravité, hiérarchisation des risques pour traiter les risques prioritaires), identification et
+priorisation des mesures correctives ;
+*Do : traitement des risques ;
+*Check : évaluation de l’efficacité des mesures correctives et identification du risque résiduel ;
+*Act : retraiter les risques, etc.
+De manière plus générale la procédure de certification des établissements instituée par la réglementation
+est un levier de management pour améliorer les organisations et les pratiques en mettant l’accent sur la
+gestion des risques.
+Malgré tous ces outils, la gestion des risques ne peut être efficace sans le développement d’une culture
+de la sécurité. Il s’agit de fiabiliser le système de soins en identifiant les failles pour encadrer l’erreur
+humaine, qui sera toujours présente. Pour détecter ses failles, il faut encourager la déclaration et l’analyse
+des EIAS. Il s’agit de mettre en place une culture non punitive de l’erreur et une réflexion sur les organisa-
+tions. L’analyse systémique (analyse du « système ») a pour objectifs d’identifier les multiples causes ou
+barrières défaillantes ayant conduit à l’erreur (modèle du fromage suisse de James Reason) afin de pouvoir
+mettre en place des actions d’amélioration pour que l’événement indésirable ne se reproduise pas (Revues
+morbi-mortalité [RMM] et Comités de retour d’expérience [CREX]). La gestion des risques concerne autant
+la prévention des erreurs que la récupération ou l’atténuation de leurs conséquences. Or la caractéristique
+de l’humain est d’être adaptatif et créatif face à une situation à risque (sécurité adaptatrice dite « gérée »)
+mais la production des décisions humaines ne peut pas être en toutes circonstances d’un haut niveau de
+fiabilité (fatigue, stress, etc.) Il existe donc une réponse organisationnelle amenant à une sécurité norma-
+tive, dite « réglée » (emploi de procédures, protocoles, de cadres, de règles et de lois). L’approche des
+facteurs humains permet de s’interroger sur la façon dont nous interagissons, nous nous comportons et
+nous communiquons dans les situations à risques, facteurs qui participent à la survenue d’événements
+indésirables malgré l’existence de règles et de procédures (erreurs cognitives, telles que par exemple ne
+pas reconnaître la nécessité de recourir à une aide, croire à son infaillibilité, se focaliser sur une question au
+détriment de la situation dans son ensemble, etc.) Il s’agit de prendre conscience des risques et de dévelop-
+per une culture de la sécurité, individuellement ou en équipe, où s’associent étroitement la sécurité gérée
+et la sécurité réglée. « La culture de la sécurité désigne un ensemble cohérent et intégré de comportements
+individuels et organisationnels, fondé sur des croyances et des valeurs partagées, qui cherchent continuel-
+lement à réduire les dommages aux patients » [2].
+34
+Amélioration des pratiques et développement professionnel continu (DPC)
+Le DPC a pour objectifs le maintien et l’actualisation des connaissances et des compétences ainsi que
+l’amélioration des pratiques. Il constitue une obligation pour tout professionnel de santé, quel que soit
+son mode ou secteur d’activité. Chaque professionnel de santé doit justifier, sur une période de trois ans,
+de son engagement dans une démarche de DPC comportant des actions d’analyse, d’évaluation et d’amé-
+lioration de ses pratiques et de gestion des risques. Le DPC doit prendre en compte les priorités de santé
+publique. Les objectifs de DPC sont réactualisés régulièrement et adaptés à chaque spécialité.
+Le DPC est réalisé en France sous l’égide de l’Agence nationale du développement professionnel continu
+(ANDPC) des professionnels de santé de France. Cette agence assure le pilotage du DPC pour l’ensemble
+des professionnels de santé hospitaliers et libéraux de France. L’Agence met à disposition des profession-
+nels de santé une offre de DPC composée d’actions et de programmes de DPC :
+*action cognitive (concernant l’approfondissement des connaissances, exemple participation à un
+congrès, un Diplôme d’université…) ;
+*action d’analyse des pratiques professionnelles (permettant une réflexion sur la démarche et les carac-
+téristiques de la pratique professionnelle effective du professionnel : exemple EPP concernant la prise en
+charge de la douleur en post-opératoire basé sur la mesure de l’intensité de la douleur et des effets secon-
+daires des analgésiques chez 20 patients consécutifs opérés d’un certain type de chirurgie puis comparai-
+son aux données moyennes recommandées, et mise en place d’un plan d’action correctif si besoin après
+analyse des facteurs à améliorer) ;
+*gestion des risques (visant à identifier, évaluer et prioriser des risques relatifs aux activités d’un métier
+ou d’une organisation : participation à des RMM, des CREX, des comités de vigilance hospitalière…).
+Pour satisfaire à son obligation triennale, le professionnel de santé médical doit réaliser un parcours
+de DPC :
+*en réalisant le parcours recommandé par le conseil national professionnel (CNP) de sa spécialité ;
+*s’engager dans une démarche d’accréditation (notamment pour les spécialités à risque d’EIG :
+­ anesthésie-réanimation, chirurgie, gynécologie-obstétrique…).
+Il doit participer à 2 actions parmi les 3 types d’action listée supra, l’une des actions doit présenter les
+caractéristiques suivantes :
+*l’action est réalisée par un organisme ou une structure de DPC enregistrée auprès de l’ANDPC : elle doit
+obligatoirement figurer sur la plateforme de l’ANDPC (www.ANDPC.fr) ;
+*elle doit répondre aux orientations nationales fixées par arrêté (8 décembre 2015) ;
+*elle doit utiliser une des méthodes et modalités validées par la Haute Autorité de Santé (HAS) : exemples
+déjà cités supra, + publication d’un article scientifique, participation à des séances de simulation…
+La spécialité du participant doit être en adéquation avec le public prévu par l’organisme.
+Concernant la médecine ambulatoire, les groupes d’analyse de pratiques entre pairs permettent de
+répondre à l’obligation d’évaluation des pratiques professionnelles (EPP), notamment pour les médecins
+généralistes.
+7. Missions relevant du ministère
+chargé de la santé et de la HAS
+7.1. Ministère des affaires sociales et de la santé
+La Direction générale de la santé (DGS) prépare la politique de santé publique définie à l’article L.1411-1 du
+code de la santé publique et contribue à sa mise en œuvre, en liaison avec les autres directions et services
+du ministère chargé de la santé et des autres départements ministériels compétents, ainsi qu’avec l’appui
+des établissements ou organismes qui en dépendent.
+La Direction générale de l’offre de soins (DGOS) s’inscrit dans le cadre de la loi « Hôpital, patients, santé,
+territoire » (HPST) et de la réforme de la gouvernance du système de santé, favorisé par la création des
+ARS. Elle a un rôle de pilotage stratégique, de contrôle, d’évaluation, et d’animation. Elle définit et évalue
+les politiques relatives à l’accès aux soins de 1er recours. Elle cherche à promouvoir une approche globale
+de l’offre de soins, et à assurer une réponse adaptée aux besoins de prise en charge des patients et des
+usagers, tout en garantissant l’efficience et la qualité des structures de soins.
+L’Inspection générale des affaires sociales (IGAS) a une mission de contrôle, d’audit, d’évaluation des poli-
+tiques de santé et émet des rapports publics.
+Plusieurs agences nationales sont sous la tutelle du ministère.
+
+7.2. Haute Autorité de santé (HAS)
+La HAS est une autorité publique indépendante qui contribue à la régulation du système de santé par la
+qualité. Ses missions, décrites dans le Code de la sécurité sociale sont :
+*l’évaluation : des produits de santé, des pratiques professionnelles (EPP), des prestations et technolo-
+gies de santé en vue de leur remboursement ;
+*l’émission de recommandations : sur les bonnes pratiques, la santé publique, la réalisation d’études
+médico-économiques, de guides de prise en charge, de solutions pour la sécurité des patients, à destina-
+tion des professionnels et des patients ;
+*l’aide à la décision en rendant des avis à destination des pouvoirs publics ;
+*la certification des établissements de santé ;
+*l’accréditation des praticiens de certaines disciplines médicales sur la base du volontariat. L’HAS
+collecte dans une base de données les EPR signalés par les professionnels de santé engagés dans une
+démarche d’accréditation ;
+*l’information des professionnels de santé et de public sur le bon usage des soins et les bonnes pratiques.
+La HAS informe le public sur la qualité de la prise en charge dans les établissements de santé.","[1] Haute Autorité de santé. La sécurité des patients : Mettre en œuvre la gestion des risques associés aux
+soins en établissement de santé, des concepts à la pratique. Mars 2012.
+[2] Haute Autorité de santé. Culture de sécurité des soins : du concept à la pratique. Décembre 2010.
+[3] Décret n° 2016-1606 du 25 novembre 2016 relatif à la déclaration des événements indésirables graves
+associés à des soins et aux structures régionales d’appui à la qualité des soins et à la sécurité des patients.
+[4] Michel P, Minodier C, Moly-Monnereau C, Lathelize M, Domecq S et al. Direction de la recherche, des
+études, de l’évaluation et des statistiques. Les événements graves liés aux soins dans les établissements
+de santé : les résultats de l’enquête ENEIS. Le panorama des établissements de santé 2011 ; 9-16.
+[5] Haute Autorité de la santé. Hygiène et prévention du risque infectieux en cabinet médical ou paramédi-
+cal. Juin 2007.
+[6] Ministère de la Santé de la Jeunesse et des Sports. Comité technique des infections nosocomiales et des
+infections liées aux soins. Mai 2007.
+[7] Enquête nationale de prévalence des infections nosocomiales et des traitements anti-infectieux en
+établissements de santé. France. Juin 2012.
+[8] Société française d’anesthésie et de réanimation. Recommandations formalisées d’experts SFAR-SRLF :
+Pneumonies associées aux soins de réanimation. 2017.
+[9] Société française d’anesthésie et de réanimation. Recommandations Formalisées d’experts :
+Antibioprophylaxie en chirurgie et médecine interventionnelle (patients adultes). 2017.
+[10] Haut Conseil de la Santé publique. Pour une politique globale et intégrée de sécurité des patients.
+Novembre 2011.
+[11] Grall J. Y. Direction générale de la santé. Réorganisation des vigilances sanitaires. Rapport de mission.
+Juillet 2013.
+[12] Santé publique France. Enquête nationale de prévalence des infections nosocomiales et des traite-
+ments anti-infectieux en établissements de santé, mai-juin 2017 (publiée en septembre 2019).
+[13] Société française d’hygiène hospitalière. Prévention des infections liées aux cathéters périphériques
+vasculaires et sous-cutanés. 2019.",2020,"Définir la Qualité
+Définir la Sécurité
+Définir : savoir définir les événements indésirables associés aux soins (EIAS) et leur niveau de gravité ; Notion d'évitabilité ; Notion d'événement porteur de risque ; Notion d'aléa thérapeutique
+Définir l'impact économique des EIAS
+Connaître les mécanismes de transmissibilité des bactéries multi-résistantes (BMR)
+Connaître les mécanismes de résistances transférables dans les EIAS
+Connaître les structures en charge des EIAS en France
+Connaître la définition de l'antisepsie
+Connaître les modalités d'antiseptie de la peau saine, de la peau lésée et des muqueuses
+Connaître la définition et les règles de l'aseptie
+Connaître la définition et les règles de la détersion
+Connaître la définition et les règles de la désinfection
+Connaître la définition et les règles de la décontamination, de la stérilisation
+Connaître les règles de l'utilisation des antiseptiques
+Citer les trois grandes causes de risque liés aux soins
+Connaître les modalités de l'hygiène des mains et d'utilisation des solutions hydro-alcooliques
+Connaître la définition des infections associées aux soins (IAS)
+Principe d'évaluation
+Connaître le principe de précaution
+Connaître le principe d'indépendance
+Connaître le principe de transparence
+Connaître les principes de la prévention a priori
+Connaître les principes de la prévention a posteriori
+Connaître le cycle d'amélioration continue Roue de Deming
+Connaître les principes de la culture de la sécurité
+Identifier les fonctions Ministère des affaires sociales et de la santé
+Haute Autorité de Santé, dispositif de déclaration des événements porteurs de risque
+Haute Autorité de Santé, missions dans la qualité et sécurité des soins
+Connaître les trois principaux microorganismes impliqués dans les IAS
+Connaître la prévalence des IAS et la part prévalente des principales IAS
+Connaître la répartition des principaux microrganismes responsables des IAS par sites anatomiques
+Connaître les critères diagnostiques d'une infection urinaire nosocomiales
+Connaître les critères diagnostiques d'une pneumopathie nosococomiales
+Connaître les critères diagnostiques d'une infection du site opératoire (ISO)
+Connaître les facteurs de risque d'une ISO
+Connaître les critères diagnostiques d'une infection liée au cathéter
+Connaître les règles de prévention des infections urinaires nosocomiales
+Connaître les règles de prévention des pneumopathies nosocomiales
+Connaître les règles de prévention des infections du site opératoire
+Connaître les règles de prévention des infections liées au cathéter
+Définir une BMR, une bactérie hautement résistante (BHR)
+Connaître le principe de signalement des IAS
+Connaître la définition et les principes des précautions standard
+Connaître la définition et les principes des précautions complémentaires
+Connaître les moyens de la mise en œuvre des précautions standard et autres
+Connaître les mesures associées aux précautions d'hygiène
+Connaître les principes d'une démarche qualité : assurance de la qualité, amélioration continue de la qualité
+Evaluation : connaître la certification des établissements de santé, les principes et la procédure
+Evaluation : connaître les indicateurs de qualité et sécurité des soins (IQSS), les principes et les principaux programmes nationaux
+Evaluation des pratiques professionnelles : connaître les principes et la typologie des méthodes
+Evaluation des pratiques : connaître les groupes d'échange de pratiques (groupes de pairs)
+Amélioration des pratiques : connaître le développement professionnel continu"
+Neurochirurgie,93,,Compression médullaire non traumatique et syndrome de la queue de cheval,"Connaître la physiopathologie des lésions médullaires et d'un syndrome de la queue de cheval
+Connaître les signes cliniques d'une compression médullaire
+Savoir hiérarchiser les examens complémentaires devant une suspicion de compression médullaire
+Savoir faire le diagnostic d'une compression médullaire à l'imagerie
+Exemple IRM typique de compression médullaire
+Connaître les étiologies d'une compression médullaire
+Connaître le diagnostic différentiel
+Connaître les formes topographiques
+Savoir identifier des situations d'urgence devant une compression médullaire
+Connaître les principes de la prise en charge des situations d'urgence devant une compression médullaire
+Savoir faire le diagnostic clinique d'un syndrome de la queue de cheval
+Savoir hiérarchiser les examens complémentaires d'un syndrome de la queue de cheval
+Savoir faire le diagnostic radiologique d'un syndrome de la queue de cheval
+Exemple IRM typique de syndrome de la queue de cheval
+Connaître les étiologies d'un syndrome de la queue de cheval
+Connaître le diagnostic différentiel d'un syndrome de la queue de cheval
+Savoir identifier les situations d'urgence devant un syndrome de la queue de cheval
+Connaître les principes de la prise en charge des situations d'urgence devant un syndrome de la queue de cheval
+Comprendre les principaux déficits et incapacités secondaires à une compression médullaire ou un syndrome de la queue de cheval
+Connaître les principes essentiels de prise en charge des déficits, incapacités et handicap secondaire à une compression médullaire ou un syndrome de la queue de cheval","Clinique
+–	Le syndrome de la queue de cheval est un diagnostic clinique.
+–	Il s'agit d'un syndrome neurogène périphérique pluriradiculaire (entre L2 et S5) associé à des troubles sphinctériens.
+–	Tout syndrome déficitaire sensitif des membres inférieurs remontant jusqu'au périnée est un syndrome de la queue de cheval jusqu’à preuve du contraire, surtout s'il existe des troubles génitosphinctériens associés.
+–	Toujours rechercher une rétention d'urine. Le cas échéant, ne pas oublier de réaliser un sondage vésical +++.
+–	Les signes centraux (ROT vifs, signe de Babinski) doivent être recherchés et sont absents dans le syndrome de la queue de cheval.
+Imagerie
+–	L'IRM (remontant jusqu'au cône terminal de la moelle épinière) est l'examen de première intention à prescrire en urgence.
+–	Les causes sont des compressions des racines spinales de la queue de cheval, qui peuvent être intra- ou extradurales.
+–	Les causes les plus fréquentes sont dégénératives (hernie discale), tumorales, infectieuses ou liées à un hématome épidural/intradural.
+Prise en charge thérapeutique
+–	Le syndrome de la queue de cheval est une urgence neurochirurgicale.
+–	En fonction de l'étiologie, ne pas oublier les traitements complémentaires à la chirurgie (antibiotiques si infection, RCP oncologie si métastase).
+–	L'évaluation et la prise en charge en rééducation font partie du parcours du patient.
+–	La récupération est incertaine (surtout en ce qui concerne les fonctions génitosphinctériennes). Le délai de prise en charge et le statut neurologique préopératoire sont des éléments pronostiques forts.",,"I Rappels anatomiques
+•	On compte 31 paires de racines spinales (ou nerfs spinaux) pour 29 vertèbres (incluant les 5 vertèbres sacrées qui ont fusionné).
+•	Les racines spinales sortent du canal vertébral lombaire par les foramens intervertébraux (ou foramens de conjugaison). Elles portent le numéro de la vertèbre sus-jacente au foramen intervertébral.
+•	L'extrémité inférieure de la moelle épinière constitue le cône terminal.
+•	En intradural, au-dessous du cône terminal, descendent les racines spinales lombaires et sacrées (L2 à S5) formant la queue de cheval, et le filum terminale (structure fibreuse attachant la moelle épinière à l'extrémité inférieure du canal rachidien).
+II Diagnostic positif
+Le diagnostic est avant tout clinique, correspondant à une atteinte neurogène périphérique pluriradiculaire lombosacrée.
+A Troubles sensitifs
+1 Troubles sensitifs subjectifs
+Les douleurs et paresthésies sont pluriradiculaires (territoires crural et sciatique), volontiers bilatérales, parfois unilatérales ou asymétriques. Elles sont souvent impulsives, c'est-à-dire exagérées par la toux, la défécation et l’éternuement.
+2 Troubles sensitifs objectifs
+Une hypo- ou anesthésie est retrouvée à tous les modes, pouvant s'étendre à l'ensemble des membres inférieurs en cas d’atteinte globale.
+La topographie des troubles sensitifs et/ou des radiculalgies dépend des racines atteintes ; pour l’essentiel :
+•	le dermatome L2 correspond à la face médiale de la cuisse  ;
+•	le dermatome L3 correspond à la face antérieure de la cuisse  ;
+•	le dermatome L4 correspond à la face antéro-latérale de la cuisse et la face antéromédiale de la jambe ;
+•	le dermatome L5 correspond à la face latérale de la cuisse, la face antérolatérale de la jambe et la face dorsale du pied jusqu’aux 4 premiers orteils ;
+•	le dermatome S1 correspond à la fesse, la face postérieure de la cuisse, la face postérieure de la jambe, le talon, la face plantaire du pied et le bord latéral du pied jusqu’au 5ème orteil.
+On recherchera le signe de Lasègue (en cas de radiculalgie sciatique) et le signe de Léri (radiculalgie crurale).
+Les troubles sensitifs intéressent également la région du périnée, les fesses, les organes génitaux externes, l'anus, la partie haute de la face médiale des cuisses, réalisant ainsi une hypoesthésie ou une anesthésie en selle (de cheval) qui est caractéristique du syndrome de la queue de cheval. Il peut s'agir d'une hémi-hypo/anesthésie (intéressant ainsi un seul côté du périnée).
+B Troubles moteurs
+Il s'agit d'une paralysie d'origine périphérique, c'est-à-dire flasque, hypotonique, avec évolution rapide vers l'amyotrophie, qui est évaluée par la mesure du périmètre de la cuisse et du mollet. Le testing des différents groupes musculaires permet de coter l'importance du déficit (de 0 à 5) :
+•	la racine spinale L2 donne l’innervation motrice au muscle psoas (flexion de la cuisse sur le bassin)
+•	les racines spinales L3 et L4  = muscle quadriceps fémoral (extension du genou) ;
+•	la racine spinale L4 = muscle tibial antérieur (flexion dorsale du pied) ;
+•	la racine spinale L5 = muscles long et court fibulaires (éversion du pied), extenseur de l'hallux et extenseur des orteils ;
+•	la racine spinale S1 = muscles triceps sural (flexion plantaire du pied), long fléchisseur de l'hallux et fléchisseurs des orteils ;
+•	les racines spinales S2-S3-S4 donnent l'innervation motrice des sphincters de la vessie et de l'anus.
+À l'extrême, l'atteinte motrice peut aboutir à une paraplégie flasque.
+C Troubles génitosphinctériens
+Les troubles génitosphinctériens sont souvent précoces et témoignent d'un degré de gravité supplémentaire de l'atteinte fonctionnelle.
+Les troubles vésicaux (atteinte S3 prédominante), liés à une vessie neurologique périphérique (c'est-à-dire hypo- ou acontractile), correspondent à :
+•	une dysurie (efforts de poussée) ;
+•	des mictions incomplètes avec pollakiurie ;
+•	une rétention urinaire ;
+•	une incontinence urinaire (mictions par regorgement).
+Les troubles anorectaux (atteinte S4 prédominante) sont également fréquents, à type d'incontinence anale (gaz, selles).
+Des troubles sexuels (atteinte S2 prédominante) peuvent être observés, à type d'insuffisance érectile, d'anéjaculation ou d'éjaculation rétrograde chez l'homme ; chez la femme, anesthésie de la vulve, sécheresse vaginale sont décrites.
+________________________________________________________________________________
+Ne jamais oublier de rechercher une rétention urinaire chez un patient suspect de syndrome de la queue de cheval et penser au sondage vésical !
+________________________________________________________________________________
+D Troubles réflexes
+1 Réflexes ostéotendineux
+Il faut rechercher une diminution/abolition des réflexes ostéotendineux (ROT) achilléen (tributaire de la racine spinale S1) et patellaire/rotulien (L4).
+2 Réflexes périnéaux
+L'examen du périnée doit se faire avec l'accord du patient et en respectant l'intimité de la personne. Il doit être motivé par un prérequis neurologique faisant évoquer un syndrome de la queue de cheval.
+Les réflexes périnéaux à rechercher sont les suivants :
+•	réflexe anal (S4) : la piqûre de la marge anale ou l'effleurement avec un coton provoque une contraction sphinctérienne rapide et brève ;
+•	réflexe bulbo- ou clitorido-anal (S3) : le pincement du gland ou du clitoris entraîne une contraction anale ; de la même façon, on note une contraction périnéale (réflexe bulbocaverneux) ;
+•	réflexe d'étirement de la marge anale (S4) : l'étirement rapide provoque une contraction réflexe rapide et brève ;
+•	contraction réflexe à la toux : la toux provoque une contraction réflexe du sphincter anal (afférence : T6-T12 ; efférence : S3-S4).
+E Troubles trophiques
+Les troubles trophiques apparaissent parfois rapidement dans les formes de paraplégie flasque complète sous la forme d'escarres aux points d'appui. L'amyotrophie est plus tardive que pour les souffrances tronculaires.
+F Absence de signes centraux
+La recherche de signes centraux (signe de Babinski, trépidation épileptoïde, etc.) doit être systématique.
+On ne peut pas affirmer un syndrome périphérique sans avoir constaté l'absence de signes centraux.
+G Syndrome rachidien
+Un lumbago, une rachialgie spontanée ou provoquée peuvent compléter le tableau clinique.
+III Formes cliniques
+A Selon le mode d'installation
+L'installation peut être progressive, rapide, aiguë voire suraiguë.
+________________________________________________________________________________
+La vitesse d'installation du déficit est le plus souvent corrélée au degré d'urgence de la prise en charge : l'urgence sera d'autant plus importante que le déficit sera d'apparition rapide et intense.
+________________________________________________________________________________
+B En hauteur
+•	Les formes hautes (L2, L3, L4) se présentent avec cruralgie, déficit moteur proximal et aréflexie rotulienne.
+•	Les formes moyennes (L5, S1) sont les plus fréquentes, avec sciatalgie, déficit moteur distal et aréflexie achilléenne.
+•	Les formes basses (S2 à S5) sont à expression purement génito-sphinctérienne (douleur et anesthésie en selle, troubles urinaires/anaux/sexuels, abolition des réflexes périnéaux).
+C En largeur
+Formes asymétriques ou unilatérales (hémisyndrome de la queue de cheval).
+D Selon la sévérité de l'atteinte
+•	Atteinte sévère avec paralysie flasque : le diagnostic différentiel est alors celui d'une atteinte médullaire, notamment du cône terminal ; l'aréflexie est en faveur du syndrome de la queue de cheval ; la présence d'un signe de Babinski est en faveur d'une atteinte médullaire du cône terminal.
+•	Formes frustes où la symptomatologie est peu marquée (douleurs vagues, paresthésies) : il faut alors rechercher des troubles neurologiques objectifs (aréflexie, hypoesthésie périnéale) et des signes fonctionnels génitosphinctériens (dysurie).
+IV Diagnostics différentiels
+ Dans sa forme typique, le syndrome de la queue de cheval est aisé à caractériser, si bien qu'il n'y a pratiquement pas de diagnostic différentiel (tableaux 2.1 et 2.2). En outre, les risques d'atteinte neurologique invalidante séquellaire en cas de retard diagnostique et thérapeutique imposent de considérer toute atteinte sensitivomotrice des membres inférieurs comme un syndrome de la queue de cheval jusqu'à preuve du contraire dès lors qu'il existe des troubles sphinctériens associés. Néanmoins, le syndrome de la queue de cheval doit être distingué d'une atteinte médullaire par l'absence de syndrome pyramidal et par la constatation d'une abolition des ROT aux membres inférieurs.
+________________________________________________________________________________
+ Un diagnostic différentiel ne sera le plus souvent envisagé qu'en cas d'IRM lombosacrée normale !
+________________________________________________________________________________
+A Compression du cône terminal
+Situé en T12-L1 ou L1-L2, le cône terminal de la moelle épinière est en contact avec les racines spinales lombosacrées dans leur trajet proximal, expliquant l'atteinte à la fois centrale et périphérique.
+Le diagnostic différentiel avec une compression médullaire n'est pas aisé. Dans le cas d'une atteinte du cône terminal, le syndrome pyramidal est souvent discret (signe de Babinski), le déficit moteur est rhizomélique (partie proximale des membres inférieurs) et la vessie est de type périphérique. Dans les situations complexes, l'IRM permet de préciser le diagnostic.
+B Polyradiculonévrite (syndrome de Guillain-Barré)
+Il s'agit du principal diagnostic différentiel. L'étude du LCS, ici capitale, met en évidence la classique dissociation albuminocytologique. Les caractéristiques à l'électroneuromyogramme (ENMG) et la normalité de l'IRM permettent également de redresser le diagnostic.
+C Autres
+Lorsque l'on suspecte une sclérose latérale amyotrophique (SLA ou maladie de Charcot), l'ENMG sera utile. Les atteintes tronculaires, notamment par cancer du petit bassin, peuvent également mimer un syndrome de la queue de cheval. Le contexte, l'imagerie et l'ENMG seront d'une grande aide.
+V Examens complémentaires
+Devant la suspicion clinique d'un syndrome de la queue de cheval, l'IRM en urgence est l'examen clé (mais attention à ne pas méconnaître ses contre-indications : par exemple, certains stimulateurs cardiaques ou neurologiques d’ancienne génération, corps étranger métallique).
+A IRM
+L'IRM est l'examen de choix car il est le plus sensible et le plus spécifique pour faire un diagnostic positif et étiologique. Il faut demander des séquences T1 sans et avec injection de produit de contraste, une séquence T2, et des coupes axiales et sagittales. Il faut préciser que l'exploration doit remonter jusqu'au cône terminal. L'examen est non invasif et permet d'effectuer des coupes dans les trois plans de l'espace. L'analyse du contenu du canal rachidien est de meilleure qualité qu'avec la tomodensitométrie (scanner).
+Si l'IRM est contre-indiquée ou non disponible, il faut faire réaliser un scanner sans et avec injection.
+B Scanner, myéloscanner et saccoradiculographie
+Le scanner donne des renseignements essentiels sur la structure osseuse du rachis, les dimensions du canal rachidien et son contenu. Il peut cependant être normal, ce qui n'exclut pas certaines lésions (de localisation intradurale notamment) pour lesquelles il est peu sensible. L'injection intrathécale d'un produit de contraste (radio-opaque et hydrosoluble) réalise le myéloscanner qui conjugue l'avantage d'une saccoradiculographie (voir figure 2.6) et de la tomodensitométrie. Cet examen peut permettre de mettre en évidence un blocage complet du produit de contraste ou bien une empreinte ou un arrêt en « bec-de-flûte » (en cas de compression extradurale tumorale). Le scanner peut également guider une biopsie à l'aiguille.
+C Radiographies standards
+Leur place est désormais marginale dans le diagnostic initial. Elles permettent d'étudier la structure osseuse du corps vertébral, les foramens intervertébraux, les pédicules et les disques. 
+D ENMG
+Il peut être réalisé en cas de doute diagnostique, mais n'a pas d'intérêt en cas d'examen clinique et d'imagerie typique d'un syndrome de la queue de cheval. En revanche, il prend tout son sens en cas de doute diagnostique avec un syndrome de Guillain-Barré ou une SLA.
+E Ponction lombaire
+La ponction lombaire ne peut être envisagée que si l'IRM exclut une compression ; sinon, on s'expose à aggraver la symptomatologie initiale. Elle permet de rechercher un syndrome de Guillain-Barré ou d'orienter vers d'autres pathologies inflammatoires, infectieuses ou néoplasiques.
+VI Étiologies
+Par ordre de fréquence, l'étiologie des syndromes de la queue de cheval est dominée par la hernie discale lombaire, les tumeurs osseuses secondaires (métastases) et les tumeurs intradurales.
+A Causes extradurales
+1 Hernie discale lombaire
+________________________________________________________________________________
+ La survenue d'un syndrome de la queue de cheval brutale chez un patient jeune sans antécédent doit faire évoquer en premier lieu une hernie discale lombaire. Il s'agit dans ce cas d'une urgence chirurgicale.
+C'est la cause la plus fréquente des compressions de la queue de cheval, mais seulement 2 % des hernies discales lombaires sont associées à un syndrome de la queue de cheval (fig. 2.3).
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+Fig. 2.3 
+ IRM en coupe sagittale, séquence T2.
+Volumineuse hernie discale L5-S1 exclue.
+Chez un patient ayant souvent des antécédents de lumbago survient un syndrome aigu monoradiculaire s'aggravant secondairement ou un syndrome pluriradiculaire, en général incomplet et asymétrique. L'installation des troubles neurologiques et sphinctériens est souvent rapide voire brutale et traduit la survenue d'une exclusion d'une volumineuse hernie discale dans le canal rachidien, à l'origine de la compression aiguë des racines spinales de la queue de cheval.
+La notion d'un effort déclenchant est fréquente mais non obligatoire. La séquence d'une apparition rapide d'une radiculalgie et d'un hémisyndrome de la queue de cheval contemporaine d'une diminution voire d'une disparition des lombalgies est particulièrement évocatrice de la survenue d'une exclusion herniaire. Une IRM lombaire réalisée en urgence pose le diagnostic. La hernie discale est souvent de volume important et intéresse la ligne médiane. Le traitement chirurgical, qui consiste en l'ablation du fragment discal exclu, doit être mis en œuvre le plus rapidement possible.
+Le pronostic fonctionnel dépend de la rapidité du diagnostic et de la mise en œuvre du traitement chirurgical. Les conséquences fonctionnelles et sociales de troubles vésicosphinctériens séquellaires ne doivent clairement pas être négligées, particulièrement chez des sujets jeunes et actifs.
+________________________________________________________________________________
+ Attention : toute radiculalgie avec des troubles sphinctériens, même discrets, constitue déjà un syndrome de la queue de cheval jusqu'à preuve du contraire.
+________________________________________________________________________________
+2 Canal lombaire étroit
+Il s'agit d'une pathologie très fréquente dans la population générale vieillissante. La sténose du canal lombaire est surtout acquise, d'origine dégénérative/arthrosique, associant une hypertrophie du ligament jaune et des articulations zygapophysaires, réduisant progressivement le diamètre du canal vertébral. Elle est plus rarement congénitale, concernant alors un sujet plus jeune.
+La présentation clinique est une claudication intermittente neurologique douloureuse : douleur avec paresthésies dans un territoire radiculaire (souvent sciatique), apparaissant électivement lors de la déambulation et réduisant le périmètre de marche. Il existe parfois un syndrome rachidien, avec une lombalgie souvent ancienne, témoignant de lésions dégénératives. Les douleurs apparaissent à la position érigée et sont accentuées par le piétinement, la mise en hyperextension du rachis lombaire (décubitus dorsal mal toléré). Le patient est soulagé par le repos en position assise et par l'antéflexion du tronc (signe du Caddie®), position favorisant un léger élargissement des dimensions résiduelles du canal lombaire.
+Il est rare qu'un canal lombaire rétréci s'exprime par un syndrome de la queue de cheval. Il s'agit le plus souvent d'une décompensation progressive, avec une lente accentuation des troubles neurologiques. Les troubles vésicosphinctériens surviennent le plus souvent après des années d'évolution. Une décompensation brutale fera suspecter une hernie discale lombaire associée.
+Le scanner ou l'IRM mettent en évidence une réduction du diamètre antéropostérieur du canal rachidien avec un aspect trifolié (en trèfle) sur les coupes axiales (fig. 2.4, vidéo 10 ).
+________________________________________________________________________________
+Fig. 2.4 
+ Scanner lombaire (coupe axiale).
+Canal lombaire étroit.
+________________________________________________________________________________
+Sur l'IRM en coupe T2 sagittale, il est possible d'observer parfois au-dessus de l'obstacle un agglomérat des racines spinales lombosacrées à l'intérieur du sac thécal, très en faveur d'une sténose sévère sous-jacente (fig. 2.5).
+________________________________________________________________________________
+Fig. 2.5 
+ IRM, coupe sagittale T2.
+Canal lombaire étroit avec sténose sévère.
+________________________________________________________________________________
+Le traitement est chirurgical. Il consiste en une laminectomie ou laminarthrectomie (laminectomie plus large, qui emporte une partie des zygapophyses hypertrophiques) permettant le recalibrage du canal rachidien et la décompression des structures nerveuses.
+________________________________________________________________________________
+________________________________________________________________________________
+Fig. 2.6 
+ Saccoradiculographie avec cliché radiographique de face montrant un arrêt de la colonne radio-opaque en regard de L4-L5.
+3 Tumeurs osseuses et épidurales
+Chez l'adulte, ces tumeurs sont très majoritairement des tumeurs secondaires (métastases) et représentent la deuxième cause des syndromes de la queue de cheval par ordre de fréquence.
+Tumeurs osseuses secondaires (métastases osseuses ou ostéo-épidurales)
+L'atteinte neurologique est consécutive à l'envahissement de la lumière du canal rachidien par la métastase, à l'origine de la compression des racines spinales de la queue de cheval (fig. 2.7). Toute néoplasie peut être à l'origine de métastases osseuses et/ou épidurales, les plus fréquentes étant les cancers du (de la) sein, prostate, poumon, rein, vessie, thyroïde et le mélanome.
+________________________________________________________________________________
+Fig. 2.7 
+ Scanner lombaire en coupe axiale.
+Épidurite néoplasique avec envahissement intracanalaire et ostéolyse du corps de L4 (métastase d'un cancer du poumon).
+________________________________________________________________________________
+Le diagnostic est fortement suspecté lorsque le patient a un antécédent de cancer connu. Le tableau est dominé par des douleurs rachidiennes et radiculaires importantes ayant un horaire inflammatoire (recrudescence nocturne). En cas de métastase osseuse, les troubles neurologiques sont présents dans 5 à 20 % des cas.
+Les radiographies du rachis peuvent orienter le diagnostic lorsqu'elles mettent en évidence un tassement corporéal lytique, une lyse pédiculaire (vertèbre « borgne » sur le cliché de face) ou une ostéocondensation (vertèbre ivoire en cas de métastase d'un cancer de la prostate notamment). Elles doivent être complétées par la réalisation d'un scanner et d'une IRM lombaires.
+ Le traitement peut être chirurgical, surtout lorsque des troubles neurologiques sont présents, mais l'indication chirurgicale doit également tenir compte de l'état général (score OMS, échelle de Karnofsky) et neurologique du patient, du degré d'extension de sa maladie cancéreuse et de l'importance de l'atteinte rachidienne.
+ Enfin, la découverte d'une telle lésion peut être le mode d'entrée dans la maladie cancéreuse. Il faudra donc dans ce cas prévoir un bilan d'extension et rechercher la tumeur primitive.
+Tumeurs osseuses primitives bénignes (rares)
+•	 Ostéome ostéoïde.
+•	Ostéochondrome.
+•	Hémangiome.
+•	Tumeur à cellules géantes.
+•	Kyste osseux anévrismal.
+Tumeurs osseuses primitives malignes
+•	 Le myélome est la plus fréquente des tumeurs osseuses malignes, après les lésions secondaires. Il touche essentiellement l'homme de plus de 70 ans et l'atteinte rachidienne est fréquente. Le caractère ostéolytique explique la fréquence des compressions neurologiques.
+•	Lymphome.
+•	Chordome (fig. 2.8).
+________________________________________________________________________________
+Fig. 2.8 
+ Scanner en coupe sagittale.
+Chordome sacré : tumeur à limites nettes, avec extension présacrée intrapelvienne et refoulement du rectum. Extension dans le canal sacré dont les parois sont le siège d'une destruction osseuse.
+________________________________________________________________________________
+•	Sarcomes.
+Hématome spinal épidural ou sous-dural
+Spontané (favorisé par la prise d'anticoagulant ou d'antiagrégant plaquettaire), post-traumatique (chute, ponction lombaire, anesthésie péridurale ou rachianesthésie, infiltration), ou exceptionnellement révélateur d'une malformation vasculaire.
+Le tableau est celui d'une lombalgie aiguë avec installation rapide des troubles neurologiques.
+L'IRM, réalisée en urgence, permet d'affirmer le diagnostic et d'évaluer l'importance et l'extension craniocaudale de l'hématome, qui devra être drainé chirurgicalement le plus rapidement possible.
+Spondylodiscite et abcès/empyème épidural
+Les spondylodiscites bactériennes à germes banals peuvent compliquer une bactériémie et surviennent plus volontiers chez les patients ayant un terrain immunodéprimé. Elles peuvent aussi être iatrogènes et compliquer une intervention chirurgicale rachidienne ou une infiltration.
+Il faut distinguer les spondylodiscites à germes spécifiques et plus particulièrement les spondylodiscites tuberculeuses. L'atteinte tuberculeuse (ou mal de Pott) est souvent caractérisée par la présence d'un abcès paravertébral (dans les muscles psoas).
+La discussion se fera en équipe pluridisciplinaire pour définir le traitement antibiotique (obligatoire) et l'alternative chirurgicale (décompression, stabilisation, prélèvement à visée bactériologique).
+B Tumeurs intradurales
+Les tumeurs intradurales sont représentées par les schwannomes (ou neurinomes), les méningiomes et d'autres tumeurs rares.
+1 Schwannome ou neurinome
+Développée à partir des cellules de Schwann, c'est la tumeur intradurale la plus fréquente au niveau lombosacré (fig. 2.9). Tumeur le plus souvent bénigne, survenant de manière sporadique ou, plus rarement, dans le cadre d'une neurofibromatose de type 2.
+________________________________________________________________________________
+Fig. 2.9 
+ IRM lombaire en coupe sagittale séquence T1 après injection de gadolinium.
+Schwannome (neurinome) de la queue de cheval responsable d'une radiculalgie sciatique depuis 6 mois.
+________________________________________________________________________________
+Le tableau typique est celui d'une radiculalgie à prédominance nocturne, survenant chez un patient jeune. Le syndrome de la queue de cheval est plus rarement observé, le diagnostic étant souvent fait avant ce stade compte tenu de l’importance de la douleur. Le diagnostic est fait par l'IRM, qui montre une lésion intradurale arrondie, prenant fortement le contraste de manière homogène. Il existe parfois un développement extrarachidien, notamment au niveau sacré, le schwannome « sortant » par le foramen intervertébral (aspect de tumeur « en sablier »). L'extension extrarachidienne peut être très importante, réalisant de véritables tumeurs « géantes » avec un développement pelvien. Le traitement du schwannome est chirurgical.
+2 Méningiome
+Tumeur développée aux dépens de l'arachnoïde (fig. 2.10). Il est le plus souvent de localisation thoracique, donc responsable d'un tableau de compression médullaire plus que d'un syndrome de la queue de cheval. Le tableau clinique est celui d'une paraparésie d'installation progressive et les douleurs sont rares et tardives. Le diagnostic clinique et radiologique différentiel avec un neurinome n'est pas toujours aisé. Le traitement est chirurgical et le pronostic excellent si l'exérèse a pu être complète. La récupération neurologique est de règle.
+________________________________________________________________________________
+Fig. 2.10 
+ IRM sagittale injectée montrant un volumineux méningiome lombaire.
+________________________________________________________________________________
+3 Épendymomes
+L'épendymome de la queue de cheval est la localisation la plus fréquente des épendymomes (fig. 2.11 et 2.12). Son développement se fait à partir des cellules épendymaires persistant le long du filum terminale.
+________________________________________________________________________________
+Fig. 2.11 
+ IRM thoracolombaire en coupe sagittale séquence T2 (à gauche) et séquence T1 sans (au milieu), puis après injection de gadolinium (à droite), montrant un épendymome de la queue de cheval développé entre L1 et L3.
+________________________________________________________________________________
+________________________________________________________________________________
+Fig. 2.12 
+ IRM lombaire en coupe sagittale.
+Épendymome de la queue de cheval.
+________________________________________________________________________________
+L'IRM montre une tumeur intradurale prenant le contraste de façon hétérogène.
+ L'exérèse chirurgicale est possible mais parfois difficile, compte tenu des adhérences pouvant exister avec les racines spinales ou le cône terminal. Le pronostic dépend de la qualité de l'exérèse et du grade histologique (classification OMS des tumeurs du système nerveux) (vidéo 11 ).
+4 Autres tumeurs (rares)
+•	 Les métastases intradurales sous-arachnoïdiennes (leptoméningées) peuvent entrer dans le cadre d'une méningite néoplasique par dissémination hématogène de cancers solides à fort tropisme neurologique, ou de tumeurs primitives malignes du système nerveux central avec dissémination via les voies d’écoulement du LCS (gliome de haut grade, médulloblastome ou épendymome anaplasique intracrânien). La survenue d'une dissémination méningée signe le plus souvent un tournant de la maladie avec un pronostic sombre à court terme.
+•	 Les kystes dermoïdes et épidermoïdes.
+•	 Les lipomes du cône terminal (myélolipomes) et du filum terminale s'intègrent dans le cadre de dysraphismes (anomalies de fermeture du tube neural d'origine congénitale). Il s'agit donc plutôt de lésions malformatives, intéressant une population pédiatrique.
+VII Prise en charge
+ Le syndrome de la queue de cheval est une urgence diagnostique et thérapeutique. Dès la moindre suspicion clinique, il faut faire pratiquer en urgence une IRM lombosacrée. L'hospitalisation en urgence et en milieu spécialisé est de rigueur.
+A Mesures générales
+•	Patient à jeun.
+•	Bilan préopératoire : bilan biologique, groupage A-B-O, Rh-RAI.
+________________________________________________________________________________
+Attention : les chirurgies tumorales ou les chirurgies rachidiennes étendues présentent un risque hémorragique à prendre en compte.
+________________________________________________________________________________
+•	Suspendre ± antagoniser tout traitement anticoagulant ou antiagrégant plaquettaire.
+•	Consultation d'anesthésie en urgence.
+•	Prise en charge de la douleur (tolérance/efficacité) : antalgiques, myorelaxants.
+•	Il est indispensable de rechercher (matité sus-pubienne, échographie vésicale) et de traiter (sondage vésical) une rétention d'urine.
+•	Informer le patient de manière continue et obtenir son consentement éclairé.
+•	Intérêt d’une mobilisation postopératoire précoce.
+B Chirurgie
+La chirurgie a trois objectifs principaux :
+•	décompression neurologique ;
+•	stabilisation si fracture vertébrale instable (ostéosynthèse) ;
+•	prélèvements pour confirmation diagnostique (anatomie pathologique, bactériologie).
+________________________________________________________________________________
+Urgence chirurgicale immédiate (le plus vite possible) : si le syndrome de la queue de cheval est d'installation rapide et/ou si les troubles neurologiques/génito-sphinctériens sont importants. Les situations suivantes doivent particulièrement retenir l'attention et faire poser l'indication en urgence :
+•	hernie discale lombaire exclue ;
+•	tumeur maligne ;
+•	hématome rachidien épidural ou sous-dural.
+Urgence chirurgicale différée (aussi vite que possible) : si le syndrome de la queue de cheval est d'installation progressive ou subaiguë, ou si les troubles neurologiques sont modérés. Ce tableau de compression « lente » de la queue de cheval est plus souvent rencontré dans les étiologies suivantes :
+•	tumeurs intradurales bénignes ;
+•	canal lombaire étroit ;
+•	lésion infectieuse, notamment tuberculeuse.
+________________________________________________________________________________
+C Prise en charge rééducative
+ Une évaluation des déficits et une prise en charge des incapacités / handicaps devront être faites avec les acteurs de la filière de médecine physique et de réadaptation. Il sera très souvent utile de faire réaliser un bilan urodynamique à distance et de mettre en œuvre des mesures d'éducation thérapeutique (auto-sondages vésicaux par ex.).
+________________________________________________________________________________
+ La récupération d'un syndrome de la queue de cheval est le plus souvent longue et nécessite une prise en charge et un encadrement spécialisés.
+________________________________________________________________________________
+La prise en charge rééducative portera sur le syndrome rachidien, sur l'atteinte pluriradiculaire et périnéale, associant des troubles moteurs et sensitifs uni- ou bilatéraux souvent incomplets, et potentiellement des troubles vésicosphinctériens, anorectaux et génitosexuels. La prise en charge sera pluridisciplinaire, associant médecin, kinésithérapeute, ergothérapeute, appareilleur, infirmière, aide-soignante, neuropsychologue, assistante sociale, etc.
+•	Prévention cutanée et thromboembolique (surtout à la phase initiale) :
+–	héparine de bas poids moléculaire (HBPM), contention pneumatique ou bas de contention ;
+–	prévention d'escarre : décharges des points d'appui, massages, mobilisation.
+•	Déficit moteur :
+–	lutter contre les raideurs et rétractions dues à l'immobilisation et au déficit ; mobilisation articulaire passive, installation au lit (orthèse si nécessaire) : l'objectif est le maintien des amplitudes articulaire ;
+–	renforcement moteur analytique des muscles déficitaires ;
+–	travail de la marche avec aides techniques (voir § Appareillage) ;
+–	associer un renforcement des membres supérieurs et du tronc.
+•	Appareillage : en fonction de la sévérité, seront prescrits fauteuil roulant manuel avec ou sans coussin de décharge, déambulateur, cannes anglaises, orthèse cruro-suro-pédieuse ou releveur (suropédieux).
+•	Troubles sensitifs (surtout si atteinte proprioceptive) :
+–	travail de réafférentation proprioceptive ;
+–	travail de contrôle devant miroir ;
+–	plateforme de posturographie.
+•	Douleurs neuropathiques :
+–	antidépresseur ou gabapentinoïdes ;
+–	physiothérapie (stimulation électrique transcutanée, TENS).
+•	Troubles vésicosphinctériens : le plus souvent neurovessie périphérique avec un détrusor acontractile et une incompétence détrusorienne (miction possible par regorgement, par poussée abdominale, incontinence d'effort). La fonction vésicosphinctérienne devra être explorée par un bilan urodynamique. La technique d'autosondage est la référence.
+•	Troubles du transit et anorectaux :
+–	déclenchement réflexe de l'exonération des selles par suppositoire ;
+–	extraction manuelle de l'ampoule rectale.
+•	Troubles génitosexuels : les troubles de l'érection (érection molle) peuvent être améliorés par l'injection intracaverneuse de prostaglandines E1.
+Ces différentes prises en charge sont à adapter à l'état et l'évolution clinique du patient. La pluridisciplinarité intègre la participation du patient et son éducation (notamment au niveau cutané et urinaire).
+",,,"Connaître la physiopathologie des lésions médullaires et d'un syndrome de la queue de cheval
+Connaître les signes cliniques d'une compression médullaire
+Savoir hiérarchiser les examens complémentaires devant une suspicion de compression médullaire
+Savoir faire le diagnostic d'une compression médullaire à l'imagerie
+Exemple d'une IRM typique de compression médullaire
+Connaître les étiologies d'une compression médullaire
+Connaître le diagnostic différentiel
+Connaître les formes topographiques
+Savoir identifier des situations d'urgence devant une compression médullaire
+Connaître les principes de la prise en charge des situations d'urgence devant une compression médullaire
+Savoir faire le diagnostic clinique d'un syndrome de la queue de cheval
+Savoir hiérarchiser les examens complémentaires d'un syndrome de la queue de cheval
+Savoir faire le diagnostic radiologique d'un syndrome de la queue de cheval
+IRM typique de syndrome de la queue de cheval
+Connaître les étiologies d'un syndrome de la queue de cheval
+Connaître le diagnostic différentiel d'un syndrome de la queue de cheval
+Savoir identifier les situations d'urgence devant un syndrome de la queue de cheval
+Connaître les principes de la prise en charge des situations d'urgence devant un syndrome de la queue de cheval
+Comprendre les principaux déficits et incapacités secondaires à une compression médullaire ou un syndrome de la queue de cheval
+Connaître les principes essentiels de prise en charge des déficits, des incapacités et handicap secondaire à une compression médullaire ou un syndrome de la queue de cheval"
+Neurochirurgie,95,,,,,,,,,
+Neurochirurgie,99,,,,,,,,,
+Neurochirurgie,299,,,,,,,,,
+Neurochirurgie,334,,,,,,,,,
+Neurochirurgie,335,,,,,,,,,
+Neurochirurgie,340,,,,,,,,,
+Neurochirurgie,341,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Anesthésie-réanimation,334,1,"Prise en charge immédiate pré-hospitalière et à l’arrivée à l’hôpital, évaluation des complications chez : un traumatisé sévère",Absence d’objectif détaillé dans le texte du programme officiel.,"Un traumatisé sévère est un patient victime d’un traumatisme dont la violence ou le mécanisme du
+traumatisme peuvent entraîner des lésions mettant en jeu le pronostic vital.
+La première étape de la prise en charge médicale pré-hospitalière est la réalisation d’un bilan clinique
+des lésions et de leur retentissement physiologique (hémodynamique, ventilatoire et neurologique),
+permettant de guider l’orientation hospitalière du patient vers un établissement adapté à son état.
+La seconde étape de sa prise en charge pré-hospitalière est l’initiation du traitement.
+Les quinze premières minutes de la prise en charge hospitalière sont consacrées au bilan clinique et au
+conditionnement du patient.
+Les trente premières minutes sont consacrées à la réalisation du bilan initial, biologique et
+radiologique standard (radiographies de thorax, bassin et échographie FAST), lequel ne comprend pas
+la tomodensitométrie.
+La tomodensitométrie corps entier sans (au niveau cérébral) puis avec injection de produit de contraste
+doit être réalisée chez tous les patients traumatisés sévères dont l’état hémodynamique a été stabilisé.
+Le traitement de la défaillance hémodynamique repose majoritairement sur la prise en charge du choc
+hémorragique.
+Le traitement des défaillances ventilatoires et neurologiques fait appel à l’intubation orotrachéale.
+La coagulopathie est traitée précocement.
+Les lésions sont traitées chirurgicalement en priorisant les lésions hémorragiques puis ouvertes.","Un traumatisé sévère est un patient victime d’un traumatisme dont la violence ou le mécanisme du trauma-
+tisme peuvent entraîner des lésions mettant en jeu le pronostic vital.
+Les traumatismes sont la première cause de mortalité chez les sujets jeunes (moins de 40 ans) et sont à
+l’origine de handicaps lourds et d’un coût financier important. La prise en charge dans un centre spécialisé
+(« trauma center ») permet de diminuer de 25 % la mortalité, d’où l’importance du triage de ces patients.
+Un défaut d’orientation nécessitant un transfert secondaire vers un centre spécialisé est associé à une
+surmortalité.
+La mortalité précoce est liée à l’hémorragie et au traumatisme crânien. La mortalité tardive est liée aux
+conséquences du traumatisme crânien et au syndrome de défaillance multiviscérale et ses complications.","2.1. Notion de damage control
+Le concept de damage control est prépondérant à toutes les étapes de la prise en charge. Il concerne la
+prise en charge réanimatoire et chirurgicale sous 2 aspects : damage control resuscitation et damage
+control surgery.
+290
+2.1.1. Damage control resuscitation
+Ce concept concerne la prise en charge médicale par l’anesthésiste-réanimateur. Il est dominé par la mise
+en place des thérapeutiques strictement nécessaires. Aucune thérapeutique risquant de ralentir le contrôle
+de l’hémorragie ne doit être entreprise. La prise en charge de ces patients doit être la plus rapide possible
+suivant le concept de golden hour tant à la phase pré-hospitalière qu’à l’admission hospitalière. Tout retard
+à la prise en charge de ces patients est grevé d’une surmortalité.
+2.1.2. Damage control surgery
+Le traitement chirurgical concerne les patients instables. La priorité est à l’arrêt du saignement afin de
+maîtriser la coagulopathie. Il doit être le plus rapide possible et se limiter aux gestes strictement néces-
+saires. Par exemple, le chirurgien réalisera une laparotomie écourtée : exploration péritonéale afin de loca-
+liser le saignement, qu’il traitera par une splénectomie d’hémostase, un packing hépatique (tamponnement
+hémostatique du foie à l’aide de textiles), puis fermeture cutanée exclusive ou laparostome permettant un
+2e look chirurgical rapide après stabilisation, et de finaliser l’intervention. Pour certains traumatismes,
+c’est l’embolisation artérielle qui est le traitement de première intention pour arrêter l’hémorragie (trauma
+du bassin).
+Phase pré-hospitalière
+2.2.1. Avant l’arrivée des secours médicalisés
+Le rôle du témoin de l’accident est fondamental dans la prise en charge du patient traumatisé sévère.
+Comme dans la prise en charge de l’arrêt cardiaque, il est le premier maillon d’une « chaîne de survie ». Ses
+rôles principaux sont :
+*
+Protéger : éviter le « sur-accident », se protéger, retirer le(s) blessé(s) de l’agent traumatique
+*
+Alerter : Appeler le 15 (SAMU-SMUR), le 18 (Pompiers), ou le 112 (en France et dans l’Union Européenne)
+et rechercher de l’aide autour de soi. Il est important de préciser son nom, formation, le lieu de l’accident,
+le nombre de blessés, la gravité des blessures, et de demander à la personne qui prend l’appel si on peut
+raccrocher avant de raccrocher.
+*
+Secourir : Le médecin régulateur donne les ordres téléphoniques en fonction de l’aide présente :
+compression d’une hémorragie active, position latérale de sécurité (PLS), Réanimation Cardio-Pulmonaire
+(RCP) de base (cf. item 331).
+2.2.2. Examen clinique à l’arrivée du médecin pré-hospitalier
+À l’arrivée sur les lieux de l’accident, le médecin du SMUR va se renseigner sur le nombre de blessés, les
+circonstances de l’accident par un interrogatoire des témoins. Il recherchera des détresses vitales, en prio-
+risant celles impactant le plus rapidement la mortalité. Il s’aide pour cela de l’acronyme ABCDE :
+*
+[A]irway (voies aériennes) : recherche d’une obstruction des voies aériennes ;
+*
+[B]reathing (ventilation) : SpO2, fréquence respiratoire, cyanose, signes de détresse respiratoire (tirage,
+utilisation des muscles respiratoires accessoires, balancement thoraco-abdominal) ;
+*
+[C]irculation (hémodynamique) : recherche de signes de choc (marbrures, temps de recoloration
+cutanée), pression artérielle, fréquence cardiaque, palpation des pouls, recherche d’une hémorragie
+active. Le pouls radial témoigne d’une PAS
+>
+70 mmHg ;
+*
+[D]isability (atteinte neurologique) : score de Glasgow, examen bilatéral des pupilles, tonicité des
+membres du sphincter anal (toucher rectal) en cas de suspicion d’atteinte médullaire ;
+*
+[E]xposure (blessures) : recherche de plaies et de foyers de fractures ;
+*
+En pratique quotidienne, l’algorithme de Vittel (figure 1) est le plus utilisé pour définir un traumatisé
+sévère et l’orienter vers une structure adaptée à son état.
+291
+2.2.3. Prise en charge médicale pré-hospitalière
+En fonction des données de l’examen clinique, le médecin instaure le traitement en URGENCE.
+*
+1 Il procède à la compression de toute hémorragie extériorisée (ou met un garrot), suture une plaie du
+scalp hémorragique, tamponne une epistaxis. Il exsuffle tout pneumothorax sous tension ;
+*
+2 Mise en place d’un monitorage continu (scope) de la pression artérielle automatisée non invasive, de
+la fréquence cardiaque, de la saturation pulsée en oxygène (SpO2) et de la fréquence respiratoire.
+*
+3 Il assure, avec son équipe, la pose de 2 voies veineuses périphériques (de bon calibre, 16 G si possible),
+la mesure de la glycémie capillaire (Dextro), de l’hémoglobine (Hémocue) et de la lactatémie plasmatique ;
+*
+4.1 Il administre une oxygénothérapie titrée (masque facial 5 à 10 L/min, masque à haute concen-
+tration à 15 L/min) pour une SpO2
+>
+95 %, et réalise une intubation oro-trachéale en séquence rapide
+(cf. item 336) pour ventilation mécanique si le score de Glasgow est ≤ 8, ou en cas de détresse respiratoire
+ou hémodynamique ;
+*
+4.2 Il procède au remplissage vasculaire lorsque nécessaire et initie un traitement vasopresseur par
+noradrénaline si l’hypotension persiste malgré un remplissage adapté, dans le but de maintenir une pres-
+sion de perfusion tissulaire suffisante (cf. item 332, 9.) ;
+*
+5 Il immobilise le patient en maintenant la rectitude crânio-rachidienne (minerve cervicale rigide +
+matelas en dépression = « matelas coquille »). Tout patient traumatisé crânien est un traumatisé du rachis
+jusqu’à preuve radiologique du contraire ;
+*
+6 Il administre un traitement antalgique (morphine ou anesthésie générale). Gardons à l’esprit que l’im-
+mobilisation des foyers de fracture constitue la première étape du traitement antalgique de celles-ci ;
+*
+7 Il procède au nettoyage des plaies, à leur désinfection et à la mise en place de pansements ;
+*
+8 Il assure la lutte contre l’hypothermie (couverture de survie) ;
+*
+9 Il réalise un bilan clinique complet (fractures, plaies…) avec schéma au besoin, bilan qu’il transmet au
+centre 15 permettant l’orientation du patient vers un centre hospitalier adapté à l’état du patient ;
+*
+10 Tout processus hémorragique non contrôlé est une urgence nécessitant le transfert sans délai vers
+un centre hospitalier apte à assurer l’hémostase : le pronostic est directement lié à la rapidité de prise en
+charge.
+2.3. Phase hospitalière
+2.3.1. Les 15 premières minutes :
+le conditionnement et l’examen clinique
+Le patient est transféré du brancard du SMUR vers le brancard du service d’accueil, maintenu immobilisé
+avec respect de la rectitude crânio-rachidienne (minerve + installation sur une planche rigide, SANS trac-
+tion axiale). Il est idéalement installé sur un matelas chauffant pour prévenir et traiter toute hypothermie.
+La surveillance est poursuivie (FC, PA, SpO2). Une mesure de l’hémoglobine et de la glycémie sont égale-
+ment réalisées (attention, on rappelle que le taux d’hémoglobine peut être normal en cas d’hémorragie
+active avant remplissage vasculaire). Une sonde thermique est mise en place : œsophagienne (chez un
+patient intubé), rectale, ou vésicale (pas de sondage vésical si urétrorragie ou suspicion de fracture du
+bassin).
+Les voies veineuses mises en place en pré-hospitalier sont vérifiées et complétées au besoin (pose d’une
+seconde voie veineuse périphérique, pose d’une voie veineuse centrale si absence de capital veineux péri-
+phérique ou administration de noradrénaline).
+Les dispositifs d’oxygénation initiés sont maintenus pour obtenir une SpO2
+>
+95 %. Lorsque nécessaire, et si
+elle n’a pas été initiée auparavant, une intubation orotrachéale en séquence rapide (tout patient traumatisé
+est considéré comme ayant un estomac plein du fait de l’inconnu concernant l’heure du dernier repas mais
+surtout du fait d’une gastroparésie souvent majeure en cas de traumatisme) avec maintien de l’axe rachi-
+dien (stabilisation manuelle en ligne) est réalisée.
+Le remplissage vasculaire est poursuivi. Si nécessaire, une transfusion sanguine en urgence vitale immé-
+diate est initiée (cf. item 332, 9.). La noradrénaline est introduite afin de maintenir la pression de perfusion
+tissulaire lorsque nécessaire.
+En parallèle, un examen clinique complet est réalisé. Celui-ci commence par l’interrogatoire du patient,
+lorsque possible. Il évaluera, en particulier, le statut vaccinal contre le tétanos. L’examen clinique évaluera
+les fonctions hémodynamiques, ventilatoires et neurologiques, en sus du bilan lésionnel. Ce dernier recher-
+chera des lésions traumatiques dans les cinq régions du corps suivantes (moyen mnémotechnique : comme
+les cinq doigts de la main) :
+*
+tête – cou – rachis ;
+*
+thorax ;
+*
+abdomen ;
+*
+bassin ;
+*
+membres.
+Ce bilan comportera systématiquement chez le patient inconscient ou suspect de lésion du rachis, un
+toucher rectal ; la mise en évidence d’une béance anale devant faire suspecter une lésion médullaire.
+Une fois le patient stabilisé, un deuxième examen clinique plus « fin » s’attachera à rechercher des lésions
+pouvant avoir un impact fonctionnel important (mains, pieds, recherche de lésions oculaires, des organes
+génitaux, articulations, recherche de lésions cutanées).
+Il faut demander un avis urologique devant toute uréthroragie en vue du sondage urinaire.
+Ces différentes étapes doivent être réalisées de manière quasi-simultanée et doivent être accomplies dans
+les 15 minutes suivant l’arrivée du patient.
+294
+2.3.2. Les 30 premières minutes : le bilan initial
+Le bilan paraclinique comporte :
+*
+Groupe et Recherche d’Agglutinines Irrégulières prétransfusionnels : indispensable avant toute trans-
+fusion même en urgence vitale (la transfusion sera alors réalisée avant le résultat mais le prélèvement
+est fait obligatoirement avant la transfusion, car la transfusion peut fausser le résultat ; 2 déterminations
+prélevées par 2 personnes différentes sur deux sites différents ou la même personne au cours de deux
+prélèvements différents : cf. item 329) ;
+*
+Numération sanguine : recherche d’une anémie et d’une thrombopénie ;
+*
+Taux de Prothrombine et Temps de Céphaline Kaolin, fibrinogène : recherche d’une coagulopathie de
+consommation (TP diminué et TCK augmenté
+>
+1,5 témoin) ;
+*
+Gaz du sang et lactate artériel : recherche d’une acidose métabolique, d’une hypoxémie ;
+*
+Ionogramme sanguin, urémie et créatininémie : hyperkaliémie (rhabdomyolyse, risque hyperkalié-
+mique avec la succinylcholine), recherche de signes d’insuffisance rénale ;
+*
+Beta-HCG plasmatique chez les femmes en âge de procréer ;
+*
+Alcoolémie lorsque le contexte fait suspecter une alcoolisation pouvant expliquer ou aggraver l’altéra-
+tion de l’état de conscience ;
+*
+Troponine Ic et Électrocardiogramme : recherche de contusion myocardique.
+Le bilan d’imagerie initial permet de déterminer si une intervention urgente (drainage thoracique, laparoto-
+mie ou thoracotomie d’hémostase, embolisation d’un traumatisme du bassin) est nécessaire. Il comporte
+trois examens répondant chacun à une question. Ils sont réalisés immédiatement, sur le brancard, sans
+mobiliser le patient :
+*
+la radiographie thoracique (de face) recherche un épanchement liquidien ou gazeux de la plèvre ;
+*
+la radiographie du bassin (de face) recherche une fracture ou dysjonction du bassin, orientant le patient,
+le cas échéant, vers une artério-embolisation en urgence en cas de syndrome hémorragique non expliqué
+par une autre origine ;
+*
+l’échographie FAST, qui consiste en une échographie RAPIDE :
+-
+abdominale ;
+-
+pleurale ;
+-
+cardiaque.
+Elle recherche un hémopéritoine, dont la présence, en cas d’instabilité hémodynamique, conduira le
+patient directement au bloc opératoire pour une laparotomie d’hémostase. L’échographie pleurale confir-
+mera un épanchement pleural gazeux ou liquidien. L’échographie cardiaque recherchera un hémopéricarde
+et évaluera son retentissement hémodynamique (tamponnade), une hypokinésie segmentaire. L’acronyme
+FAST (Focused Assesment with Sonography for Trauma) décrit essentiellement la recherche de lésion hémor-
+ragique intrapéritonéale. Son extension eFAST ou FAST extended recherche en plus à caractériser l’état des
+plèvres, du péricarde et de la circulation cérébrale (recherche d’une hypoperfusion cérébrale au niveau des
+artères sylviennes).
+2.3.3. Au-delà de 60 minutes (1 heure) : le bilan lésionnel
+2.3.3.1. Tomodensitométrie corps entier
+La tomodensitométrie ne fait pas partie du bilan initial, mais constitue la base du bilan lésionnel. On réalise
+un scanner corps entier : tout d’abord cérébral sans injection, puis avec injection de produit de contraste
+iodé (cérébral au temps artériel du polygone de Willis/troncs supra-aortiques jusqu’au pelvis, puis temps
+portal abdominopelvien). L’ensemble des zones anatomiques sont examinées en fenêtre parenchymateuse
+et osseuse, avec reconstructions au besoin, afin de rechercher des fractures. L’injection de produit de
+contraste est systématique afin de pouvoir caractériser une extravasation de produit de contraste (aux
+temps artériel, portal et tardif) témoin d’une hémorragie active.
+2.3.3.2. Autres examens
+Des radiographies standards des membres peuvent être demandées en fonction des données de l’examen
+clinique, en cas de suspicion de fracture ou de luxation.
+2.4. Prise en charge thérapeutique
+2.4.1. Traitement des détresses vitales
+Le traitement des détresses circulatoire, ventilatoire et neurologique est concomitant du bilan initial. La
+reprise de l’acronyme ABCDE permet de traiter toute source d’instabilité par ordre de priorité :
+*
+[A]irway (voies aériennes) : désobstruction manuelle, aspiration, canule oro-pharyngée, subluxation
+mandibulaire, intubation oro-trachéale ;
+*
+[B]reathing (ventilation) : exsuflation de pneumothorax sous tension, drainage thoracique, ventilation
+mécanique ;
+*
+[C]irculation (hémodynamique) : hémostase mécanique ou chirurgicale, remplissage vasculaire, trans-
+fusion sanguine, catécholamines ;
+*
+[D]isability (atteinte neurologique) : anesthésie générale et sédation-analgésie, osmothérapie, optimi-
+sation de la perfusion cérébrale ;
+*
+[E]xposure (blessures) : réduction et immobilisation des foyers de fractures, nettoyage des plaies,
+réchauffement par couverture à flux d’air pulsé et accélérateur-réchauffeur de perfusion/transfusion pour
+lutter contre l’hypothermie.
+Les principales indications de l’intubation oro-trachéale chez le patient traumatisé sévère figurent dans le
+tableau 1.
+Les principales causes d’hémorragies sévères sont les lésions abdominales, rétropéritonéales, thoraciques
+et les fractures du bassin mais certaines causes sont cependant sous-estimées et il faut rechercher en cas
+d’hypovolémie persistante : plaie du scalp, épistaxis, et certaines fractures fermées.
+La coagulopathie fait l’objet d’une prise en charge agressive, qui commence par la prévention et le traite-
+ment de l’hypothermie. Cette dernière est un facteur de risque majeur chez le traumatisé sévère, notam-
+ment en aggravant la coagulopathie, et donc l’hémorragie. Le monitorage de la température et le réchauffe-
+ment continu (au minimum la lutte contre l’hypothermie) sont fondamentaux lors de la prise en charge d’un
+patient traumatisé sévère. À cette lutte contre le refroidissement, vient s’ajouter l’administration d’un anti-
+fibrinolytique (acide tranéxamique) dans l’heure suivant le traumatisme, et la correction de l’hypocalcémie
+provenant de la dilution et de la chélation du calcium par les produits sanguins labiles (cf. item 332, 9.).
+2.4.2. Traitement des lésions
+Les interventions chirurgicales sont planifiées avec les équipes spécialisées dans un ordre établi :
+1. Les lésions hémorragiques sont traitées en priorité et en urgence, soit au bloc opératoire, soit par arté-
+riographie et embolisation. Différents moyens permettant de réduire le saignement peuvent être utilisés en
+attendant la réalisation de ce geste d’hémostase (garrots, ceintures pelviennes, pansements compressifs,
+suture de plaies du scalp) ;
+2. Les lésions neurochirurgicales et viscérales sont traitées ;
+3. Les plaies sont lavées, désinfectées et parées au besoin. Le statut vaccinal du patient pour le tétanos est
+vérifié et une sérothérapie et/ou une vaccination antitétanique sont administrées le cas échéant ;
+4. Les luxations sont réduites. Les foyers de fractures sont réduits et font l’objet d’ostéosynthèse ou d’ar-
+throdèse selon leur topographie et leur nature.
+296
+2.4.3. Prévention des complications
+Le patient doit être installé sur un matelas anti-escarres dès les résultats du scanner.
+La mise en place d’un système de compression pneumatique intermittente permet de prévenir la survenue
+de complications thromboemboliques. L’introduction d’une héparinothérapie préventive est à envisager à
+distance de l’hémorragie aiguë, une fois l’hémostase corrigée.
+Une antibiothérapie est administrée pour certaines lésions (fracture ouverte, perforation digestive, trau-
+matisme thoracique grave…).
+Une nutrition entérale est initiée dès que possible afin de prévenir la dénutrition et permettre la cicatrisation.
+Le traitement de la douleur et des complications neuropsychologiques s’intègre avec la réhabilitation
+précoce initiée dès que le patient est stabilisé en réanimation.
+Les patients seront pris en charge en rééducation après la réanimation et suivis pour leurs séquelles soma-
+tiques (incapacité physique fonctionnelle) et psychologiques (syndromes anxio-dépressifs et syndrome de
+stress post-traumatique) afin d’améliorer leur évolution et leur qualité de vie globale.
+","Recommandations formalisées d’experts (RFE) pilotées par la Société française d’anesthésie-réanimation
+(SFAR), disponible sur www.sfar.org :
+[1] avec Société de réanimation de langue française, Société française de médecine d’urgence, Groupe
+d’étude sur l’hémostase et la thrombose. Prise en charge du choc hémorragique. 2014.
+[2] avec Société française de médecine d’urgence. Traumatisme thoracique : prise en charge des
+48 premières heures. 2014.
+[3] avec Association des neuro-anesthésistes-réanimateurs de langue française, Société française de
+médecine d’urgence, Société française de neurochirurgie, Groupe francophone de réanimation et urgences
+pédiatriques, Association des anesthésistes réanimateurs pédiatriques d’expression française. Prise en
+charge des traumatismes crâniens graves à la phase précoce (24 premières heures). 2016.
+[4] avec Société française de médecine d’urgence, Association française d’urologie, Société française de
+chirurgie digestive, Société française de radiologie, Société française de chirurgie orthopédique et trau-
+matologique, Service de santé des armées. Prise en charge des traumatismes pelviens graves à la phase
+précoce (24 premières heures). 2017.
+[5] avec Association des neuro-anesthésistes-réanimateurs de langue française, Société française de
+chirurgie rachidienne, Société française de médecine d’urgence, Société française de chirurgie orthopé-
+dique & traumatologique, Société française de médecine physique et de réadaptation, Service de santé des
+armées. Prise en charge des patients présentant, ou à risque, de traumatisme vertébro-médullaire. 2019.
+Recommandations pour la pratique professionnelle (RPP) pilotée par la Société française d’anesthésie-
+réanimation (SFAR), disponible sur www.sfar.org :
+[6] avec Société francophone de brûlologie, Société française de médecine d’urgence, Association des
+anesthésistes réanimateurs pédiatriques d’expression française. Prise en charge du brûlé grave à la phase
+aiguë chez l’adulte et l’enfant. 2019.",2020,"Savoir définir un traumatisé sévère
 Connaître les causes de mortalité après un traumatisme
 Savoir identifier et caractériser les lésions cliniquement
 Connaître les critères de gravité d'un traumatisé
@@ -59,606 +1293,48 @@ Identifier le traumatisé crânien grave
 Identifier le traumatisé crânien nécessitant une évaluation spécialisées
 Savoir demander à bon escient l'examen d'imagerie pertinent devant un traumatisme crânien à la phase aiguë
 Tomodensitométrie d'hématome extra-dural, sous-dural et contusions cérébrales
-Connaître les principes de prise en charge des traumatisés crâniens",,"Un traumatisé sévère est un patient victime d’un traumatisme dont la violence ou le mécanisme du
-traumatisme peuvent entraîner des lésions mettant en jeu le pronostic vital.
-La première étape de la prise en charge médicale pré-hospitalière est la réalisation d’un bilan clinique
-des lésions et de leur retentissement physiologique (hémodynamique, ventilatoire et neurologique),
-permettant de guider l’orientation hospitalière du patient vers un établissement adapté à son état.
-La seconde étape de sa prise en charge pré-hospitalière est l’initiation du traitement.
-Les quinze premières minutes de la prise en charge hospitalière sont consacrées au bilan clinique et au
-conditionnement du patient.
-Les trente premières minutes sont consacrées à la réalisation du bilan initial, biologique et
-radiologique standard (radiographies de thorax, bassin et échographie FAST), lequel ne comprend pas
-la tomodensitométrie.
-La tomodensitométrie corps entier sans (au niveau cérébral) puis avec injection de produit de contraste
-doit être réalisée chez tous les patients traumatisés sévères dont l’état hémodynamique a été stabilisé.
-Le traitement de la défaillance hémodynamique repose majoritairement sur la prise en charge du choc
-hémorragique.
-Le traitement des défaillances ventilatoires et neurologiques fait appel à l’intubation orotrachéale.
-La coagulopathie est traitée précocement.
-Les lésions sont traitées chirurgicalement en priorisant les lésions hémorragiques puis ouvertes.","Prise en charge
-
-2.1. Notion de damage control
-
-Le concept de damage control est prépondérant à toutes les étapes de la prise en charge. Il concerne la
-
-prise en charge réanimatoire et chirurgicale sous 2 aspects : damage control resuscitation et damage
-
-control surgery.
-
-
-
-2.1.1. Damage control resuscitation
-
-Ce concept concerne la prise en charge médicale par l’anesthésiste-réanimateur. Il est dominé par la mise
-
-en place des thérapeutiques strictement nécessaires. Aucune thérapeutique risquant de ralentir le contrôle
-
-de l’hémorragie ne doit être entreprise. La prise en charge de ces patients doit être la plus rapide possible
-
-suivant le concept de golden hour tant à la phase pré-hospitalière qu’à l’admission hospitalière. Tout retard
-
-à la prise en charge de ces patients est grevé d’une surmortalité.
-
-2.1.2. Damage control surgery
-
-Le traitement chirurgical concerne les patients instables. La priorité est à l’arrêt du saignement afin de
-
-maîtriser la coagulopathie. Il doit être le plus rapide possible et se limiter aux gestes strictement néces-
-
-saires. Par exemple, le chirurgien réalisera une laparotomie écourtée : exploration péritonéale afin de loca-
-
-liser le saignement, qu’il traitera par une splénectomie d’hémostase, un packing hépatique (tamponnement
-
-hémostatique du foie à l’aide de textiles), puis fermeture cutanée exclusive ou laparostome permettant un
-
-2e look chirurgical rapide après stabilisation, et de finaliser l’intervention. Pour certains traumatismes,
-
-c’est l’embolisation artérielle qui est le traitement de première intention pour arrêter l’hémorragie (trauma
-
-du bassin).
-
-2.2. Phase pré-hospitalière
-
-2.2.1. Avant l’arrivée des secours médicalisés
-
-Le rôle du témoin de l’accident est fondamental dans la prise en charge du patient traumatisé sévère.
-
-Comme dans la prise en charge de l’arrêt cardiaque, il est le premier maillon d’une « chaîne de survie ». Ses
-
-rôles principaux sont :
-
-*
-
-Protéger : éviter le « sur-accident », se protéger, retirer le(s) blessé(s) de l’agent traumatique
-
-*
-
-Alerter : Appeler le 15 (SAMU-SMUR), le 18 (Pompiers), ou le 112 (en France et dans l’Union Européenne)
-
-et rechercher de l’aide autour de soi. Il est important de préciser son nom, formation, le lieu de l’accident,
-
-le nombre de blessés, la gravité des blessures, et de demander à la personne qui prend l’appel si on peut
-
-raccrocher avant de raccrocher.
-
-*
-
-Secourir : Le médecin régulateur donne les ordres téléphoniques en fonction de l’aide présente :
-
-compression d’une hémorragie active, position latérale de sécurité (PLS), Réanimation Cardio-Pulmonaire
-
-(RCP) de base (cf. item 331).
-
-2.2.2. Examen clinique à l’arrivée du médecin pré-hospitalier
-
-À l’arrivée sur les lieux de l’accident, le médecin du SMUR va se renseigner sur le nombre de blessés, les
-
-circonstances de l’accident par un interrogatoire des témoins. Il recherchera des détresses vitales, en prio-
-
-risant celles impactant le plus rapidement la mortalité. Il s’aide pour cela de l’acronyme ABCDE :
-
-*
-
-[A]irway (voies aériennes) : recherche d’une obstruction des voies aériennes ;
-
-*
-
-[B]reathing (ventilation) : SpO2, fréquence respiratoire, cyanose, signes de détresse respiratoire (tirage,
-
-utilisation des muscles respiratoires accessoires, balancement thoraco-abdominal) ;
-
-*
-
-[C]irculation (hémodynamique) : recherche de signes de choc (marbrures, temps de recoloration
-
-cutanée), pression artérielle, fréquence cardiaque, palpation des pouls, recherche d’une hémorragie
-
-active. Le pouls radial témoigne d’une PAS
-
-\>
-
-70 mmHg ;
-
-*
-
-[D]isability (atteinte neurologique) : score de Glasgow, examen bilatéral des pupilles, tonicité des
-
-membres du sphincter anal (toucher rectal) en cas de suspicion d’atteinte médullaire ;
-
-*
-
-[E]xposure (blessures) : recherche de plaies et de foyers de fractures ;
-
-*
-
-En pratique quotidienne, l’algorithme de Vittel (figure 1) est le plus utilisé pour définir un traumatisé
-
-sévère et l’orienter vers une structure adaptée à son état.
-
-
-
-2.2.3. Prise en charge médicale pré-hospitalière
-
-En fonction des données de l’examen clinique, le médecin instaure le traitement en URGENCE.
-
-*
-
-1 Il procède à la compression de toute hémorragie extériorisée (ou met un garrot), suture une plaie du
-
-scalp hémorragique, tamponne une epistaxis. Il exsuffle tout pneumothorax sous tension ;
-
-*
-
-2 Mise en place d’un monitorage continu (scope) de la pression artérielle automatisée non invasive, de
-
-la fréquence cardiaque, de la saturation pulsée en oxygène (SpO2) et de la fréquence respiratoire.
-
-*
-
-3 Il assure, avec son équipe, la pose de 2 voies veineuses périphériques (de bon calibre, 16 G si possible),
-
-la mesure de la glycémie capillaire (Dextro), de l’hémoglobine (Hémocue) et de la lactatémie plasmatique ;
-
-*
-
-4.1 Il administre une oxygénothérapie titrée (masque facial 5 à 10 L/min, masque à haute concen-
-
-tration à 15 L/min) pour une SpO2
-
-\>
-
-95 %, et réalise une intubation oro-trachéale en séquence rapide
-
-(cf. item 336) pour ventilation mécanique si le score de Glasgow est ≤ 8, ou en cas de détresse respiratoire
-
-ou hémodynamique ;
-
-*
-
-4.2 Il procède au remplissage vasculaire lorsque nécessaire et initie un traitement vasopresseur par
-
-noradrénaline si l’hypotension persiste malgré un remplisage adapté, dans le but de maintenir une pres-
-
-sion de perfusion tissulaire suffisante (cf. item 332, 9.) ;
-
-
-
-5 Il immobilise le patient en maintenant la rectitude crânio-rachidienne (minerve cervicale rigide +
-
-matelas en dépression = « matelas coquille »). Tout patient traumatisé crânien est un traumatisé du rachis
-
-jusqu’à preuve radiologique du contraire ;
-
-*
-
-6 Il administre un traitement antalgique (morphine ou anesthésie générale). Gardons à l’esprit que l’im-
-
-mobilisation des foyers de fracture constitue la première étape du traitement antalgique de celles-ci ;
-
-*
-
-7 Il procède au nettoyage des plaies, à leur désinfection et à la mise en place de pansements ;
-
-*
-
-8 Il assure la lutte contre l’hypothermie (couverture de survie) ;
-
-*
-
-9 Il réalise un bilan clinique complet (fractures, plaies…) avec schéma au besoin, bilan qu’il transmet au
-
-centre 15 permettant l’orientation du patient vers un centre hospitalier adapté à l’état du patient ;
-
-*
-
-10 Tout processus hémorragique non contrôlé est une urgence nécessitant le transfert sans délai vers
-
-un centre hospitalier apte à assurer l’hémostase : le pronostic est directement lié à la rapidité de prise en
-
-charge.
-
-2.3. Phase hospitalière
-
-2.3.1. Les 15 premières minutes :
-
-le conditionnement et l’examen clinique
-
-Le patient est transféré du brancard du SMUR vers le brancard du service d’accueil, maintenu immobilisé
-
-avec respect de la rectitude crânio-rachidienne (minerve + installation sur une planche rigide, SANS trac-
-
-tion axiale). Il est idéalement installé sur un matelas chauffant pour prévenir et traiter toute hypothermie.
-
-La surveillance est poursuivie (FC, PA, SpO2). Une mesure de l’hémoglobine et de la glycémie sont égale-
-
-ment réalisées (attention, on rappelle que le taux d’hémoglobine peut être normal en cas d’hémorragie
-
-active avant remplissage vasculaire). Une sonde thermique est mise en place : œsophagienne (chez un
-
-patient intubé), rectale, ou vésicale (pas de sondage vésical si urétrorragie ou suspicion de fracture du
-
-bassin).
-
-Les voies veineuses mises en place en pré-hospitalier sont vérifiées et complétées au besoin (pose d’une
-
-seconde voie veineuse périphérique, pose d’une voie veineuse centrale si absence de capital veineux péri-
-
-phérique ou administration de noradrénaline).
-
-Les dispositifs d’oxygénation initiés sont maintenus pour obtenir une SpO2
-
-\>
-
-95 %. Lorsque nécessaire, et si
-
-elle n’a pas été initiée auparavant, une intubation orotrachéale en séquence rapide (tout patient traumatisé
-
-est considéré comme ayant un estomac plein du fait de l’inconnu concernant l’heure du dernier repas mais
-
-surtout du fait d’une gastroparésie souvent majeure en cas de traumatisme) avec maintien de l’axe rachi-
-
-dien (stabilisation manuelle en ligne) est réalisée.
-
-Le remplissage vasculaire est poursuivi. Si nécessaire, une transfusion sanguine en urgence vitale immé-
-
-diate est initiée (cf. item 332, 9.). La noradrénaline est introduite afin de maintenir la pression de perfusion
-
-tissulaire lorsque nécessaire.
-
-En parallèle, un examen clinique complet est réalisé. Celui-ci commence par l’interrogatoire du patient,
-
-lorsque possible. Il évaluera, en particulier, le statut vaccinal contre le tétanos. L’examen clinique évaluera
-
-les fonctions hémodynamiques, ventilatoires et neurologiques, en sus du bilan lésionnel. Ce dernier recher-
-
-chera des lésions traumatiques dans les cinq régions du corps suivantes (moyen mnémotechnique : comme
-
-les cinq doigts de la main) :
-
-*
-
-tête – cou – rachis ;
-
-*
-
-thorax ;
-
-*
-
-abdomen ;
-
-*
-
-bassin ;
-
-*
-
-membres.
-
-
-
-Ce bilan comportera systématiquement chez le patient inconscient ou suspect de lésion du rachis, un
-
-toucher rectal ; la mise en évidence d’une béance anale devant faire suspecter une lésion médullaire.
-
-Une fois le patient stabilisé, un deuxième examen clinique plus « fin » s’attachera à rechercher des lésions
-
-pouvant avoir un impact fonctionnel important (mains, pieds, recherche de lésions oculaires, des organes
-
-génitaux, articulations, recherche de lésions cutanées).
-
-Il faut demander un avis urologique devant toute uréthroragie en vue du sondage urinaire.
-
-Ces différentes étapes doivent être réalisées de manière quasi-simultanée et doivent être accomplies dans
-
-les 15 minutes suivant l’arrivée du patient.
-
-
-
-2.3.2. Les 30 premières minutes : le bilan initial
-
-Le bilan paraclinique comporte :
-
-*
-
-Groupe et Recherche d’Agglutinines Irrégulières prétransfusionnels : indispensable avant toute trans-
-
-fusion même en urgence vitale (la transfusion sera alors réalisée avant le résultat mais le prélèvement
-
-est fait obligatoirement avant la transfusion, car la transfusion peut fausser le résultat ; 2 déterminations
-
-prélevées par 2 personnes différentes sur deux sites différents ou la même personne au cours de deux
-
-prélèvements différents : cf. item 329) ;
-
-*
-
-Numération sanguine : recherche d’une anémie et d’une thrombopénie ;
-
-*
-
-Taux de Prothrombine et Temps de Céphaline Kaolin, fibrinogène : recherche d’une coagulopathie de
-
-consommation (TP diminué et TCK augmenté
-
-\>
-
-1,5 témoin) ;
-
-*
-
-Gaz du sang et lactate artériel : recherche d’une acidose métabolique, d’une hypoxémie ;
-
-*
-
-Ionogramme sanguin, urémie et créatininémie : hyperkaliémie (rhabdomyolyse, risque hyperkalié-
-
-mique avec la succinylcholine), recherche de signes d’insuffisance rénale ;
-
-*
-
-Beta-HCG plasmatique chez les femmes en âge de procréer ;
-
-*
-
-Alcoolémie lorsque le contexte fait suspecter une alcoolisation pouvant expliquer ou aggraver l’altéra-
-
-tion de l’état de conscience ;
-
-*
-
-Troponine Ic et Électrocardiogramme : recherche de contusion myocardique.
-
-Le bilan d’imagerie initial permet de déterminer si une intervention urgente (drainage thoracique, laparoto-
-
-mie ou thoracotomie d’hémostase, embolisation d’un traumatisme du bassin) est nécessaire. Il comporte
-
-trois examens répondant chacun à une question. Ils sont réalisés immédiatement, sur le brancard, sans
-
-mobiliser le patient :
-
-*
-
-la radiographie thoracique (de face) recherche un épanchement liquidien ou gazeux de la plèvre ;
-
-*
-
-la radiographie du bassin (de face) recherche une fracture ou dysjonction du bassin, orientant le patient,
-
-le cas échéant, vers une artério-embolisation en urgence en cas de syndrome hémorragique non expliqué
-
-par une autre origine ;
-
-*
-
-l’échographie FAST, qui consiste en une échographie RAPIDE :
-
-\-
-
-abdominale ;
-
-\-
-
-pleurale ;
-
-\-
-
-cardiaque.
-
-Elle recherche un hémopéritoine, dont la présence, en cas d’instabilité hémodynamique, conduira le
-
-patient directement au bloc opératoire pour une laparotomie d’hémostase. L’échographie pleurale confir-
-
-mera un épanchement pleural gazeux ou liquidien. L’échographie cardiaque recherchera un hémopéricarde
-
-et évaluera son retentissement hémodynamique (tamponnade), une hypokinésie segmentaire. L’acronyme
-
-FAST (Focused Assesment with Sonography for Trauma) décrit essentiellement la recherche de lésion hémor-
-
-ragique intrapéritonéale. Son extension eFAST ou FAST extended recherche en plus à caractériser l’état des
-
-plèvres, du péricarde et de la circulation cérébrale (recherche d’une hypoperfusion cérébrale au niveau des
-
-artères sylviennes).
-
-2.3.3. Au-delà de 60 minutes (1 heure) : le bilan lésionnel
-
-2.3.3.1. Tomodensitométrie corps entier
-
-La tomodensitométrie ne fait pas partie du bilan initial, mais constitue la base du bilan lésionnel. On réalise
-
-un scanner corps entier : tout d’abord cérébral sans injection, puis avec injection de produit de contraste
-
-iodé (cérébral au temps artériel du polygone de Willis/troncs supra-aortiques jusqu’au pelvis, puis temps
-
-portal abdominopelvien). L’ensemble des zones anatomiques sont examinées en fenêtre parenchymateuse
-
-et osseuse, avec reconstructions au besoin, afin de rechercher des fractures. L’injection de produit de
-
-contraste est systématique afin de pouvoir caractériser une extravasation de produit de contraste (aux
-
-temps artériel, portal et tardif) témoin d’une hémorragie active.
-
-2.3.3.2. Autres examens
-
-Des radiographies standards des membres peuvent être demandées en fonction des données de l’examen
-
-clinique, en cas de suspicion de fracture ou de luxation.
-
-2.4. Prise en charge thérapeutique
-
-2.4.1. Traitement des détresses vitales
-
-Le traitement des détresses circulatoire, ventilatoire et neurologique est concomitant du bilan initial. La
-
-reprise de l’acronyme ABCDE permet de traiter toute source d’instabilité par ordre de priorité :
-
-*
-
-[A]irway (voies aériennes) : désobstruction manuelle, aspiration, canule oro-pharyngée, subluxation
-
-mandibulaire, intubation oro-trachéale ;
-
-*
-
-[B]reathing (ventilation) : exsuflation de pneumothorax sous tension, drainage thoracique, ventilation
-
-mécanique ;
-
-*
-
-[C]irculation (hémodynamique) : hémostase mécanique ou chirurgicale, remplissage vasculaire, trans-
-
-fusion sanguine, catécholamines ;
-
-*
-
-[D]isability (atteinte neurologique) : anesthésie générale et sédation-analgésie, osmothérapie, optimi-
-
-sation de la perfusion cérébrale ;
-
-*
-
-[E]xposure (blessures) : réduction et immobilisation des foyers de fractures, nettoyage des plaies,
-
-réchauffement par couverture à flux d’air pulsé et accélérateur-réchauffeur de perfusion/transfusion pour
-
-lutter contre l’hypothermie.
-
-Les principales indications de l’intubation oro-trachéale chez le patient traumatisé sévère figurent dans le
-
-tableau 1.
-
-Les principales causes d’hémorragies sévères sont les lésions abdominales, rétropéritonéales, thoraciques
-
-et les fractures du bassin mais certaines causes sont cependant sous-estimées et il faut rechercher en cas
-
-d’hypovolémie persistante : plaie du scalp, épistaxis, et certaines fractures fermées.
-
-
-
-Indications de l’intubation oro-trachéale
-
-Détresse respiratoire
-
-Détresse circulatoire
-
-Détresse neurologique avec score de Glasgow inférieur ou égal à 8
-
-Lésions traumatiques douloureuses ou nécessitant une intervention chirurgicale urgente
-
-Agitation aiguë
-
-La coagulopathie fait l’objet d’une prise en charge agressive, qui commence par la prévention et le traite-
-
-ment de l’hypothermie. Cette dernière est un facteur de risque majeur chez le traumatisé sévère, notam-
-
-ment en aggravant la coagulopathie, et donc l’hémorragie. Le monitorage de la température et le réchauffe-
-
-ment continu (au minimum la lutte contre l’hypothermie) sont fondamentaux lors de la prise en charge d’un
-
-patient traumatisé sévère. À cette lutte contre le refroidissement, vient s’ajouter l’administration d’un anti-
-
-fibrinolytique (acide tranéxamique) dans l’heure suivant le traumatisme, et la correction de l’hypocalcémie
-
-provenant de la dilution et de la chélation du calcium par les produits sanguins labiles (cf. item 332, 9.).
-
-2.4.2. Traitement des lésions
-
-Les interventions chirurgicales sont planifiées avec les équipes spécialisées dans un ordre établi :
-
-1. Les lésions hémorragiques sont traitées en priorité et en urgence, soit au bloc opératoire, soit par arté-
-
-riographie et embolisation. Différents moyens permettant de réduire le saignement peuvent être utilisés en
-
-attendant la réalisation de ce geste d’hémostase (garrots, ceintures pelviennes, pansements compressifs,
-
-suture de plaies du scalp) ;
-
-2. Les lésions neurochirurgicales et viscérales sont traitées ;
-3. Les plaies sont lavées, désinfectées et parées au besoin. Le statut vaccinal du patient pour le tétanos est
-
-vérifié et une sérothérapie et/ou une vaccination antitétanique sont administrées le cas échéant ;
-
-4. Les luxations sont réduites. Les foyers de fractures sont réduits et font l’objet d’ostéosynthèse ou d’ar-
-
-throdèse selon leur topographie et leur nature.
-
-
-
-2.4.3. Prévention des complications
-
-Le patient doit être installé sur un matelas anti-escarres dès les résultats du scanner.
-
-La mise en place d’un système de compression pneumatique intermittente permet de prévenir la survenue
-
-de complications thromboemboliques. L’introduction d’une héparinothérapie préventive est à envisager à
-
-distance de l’hémorragie aiguë, une fois l’hémostase corrigée.
-
-Une antibiothérapie est administrée pour certaines lésions (fracture ouverte, perforation digestive, trau-
-
-matisme thoracique grave…).
-
-Une nutrition entérale est initiée dès que possible afin de prévenir la dénutrition et permettre la cicatrisation.
-
-Le traitement de la douleur et des complications neuropsychologiques s’intègre avec la réhabilitation
-
-précoce initiée dès que le patient est stabilisé en réanimation.
-
-Les patients seront pris en charge en rééducation après la réanimation et suivis pour leurs séquelles soma-
-
-tiques (incapacité physique fonctionnelle) et psychologiques (syndromes anxio-dépressifs et syndrome de
-
-stress post-traumatique) afin d’améliorer leur évolution et leur qualité de vie globale.","Recommandations formalisées d’experts (RFE) pilotées par la Société française d’anesthésie-réanimation
-(SFAR), disponible sur www.sfar.org :
-[1] avec Société de réanimation de langue française, Société française de médecine d’urgence, Groupe
-d’étude sur l’hémostase et la thrombose. Prise en charge du choc hémorragique. 2014.
-[2] avec Société française de médecine d’urgence. Traumatisme thoracique : prise en charge des
-48 premières heures. 2014.
-[3] avec Association des neuro-anesthésistes-réanimateurs de langue française, Société française de
-médecine d’urgence, Société française de neurochirurgie, Groupe francophone de réanimation et urgences
-pédiatriques, Association des anesthésistes réanimateurs pédiatriques d’expression française. Prise en
-charge des traumatismes crâniens graves à la phase précoce (24 premières heures). 2016.
-[4] avec Société française de médecine d’urgence, Association française d’urologie, Société française de
-chirurgie digestive, Société française de radiologie, Société française de chirurgie orthopédique et trau-
-matologique, Service de santé des armées. Prise en charge des traumatismes pelviens graves à la phase
-précoce (24 premières heures). 2017.
-[5] avec Association des neuro-anesthésistes-réanimateurs de langue française, Société française de
-chirurgie rachidienne, Société française de médecine d’urgence, Société française de chirurgie orthopé-
-dique & traumatologique, Société française de médecine physique et de réadaptation, Service de santé des
-armées. Prise en charge des patients présentant, ou à risque, de traumatisme vertébro-médullaire. 2019.
-Recommandations pour la pratique professionnelle (RPP) pilotée par la Société française d’anesthésie-
-réanimation (SFAR), disponible sur www.sfar.org :
-[6] avec Société francophone de brûlologie, Société française de médecine d’urgence, Association des
-anesthésistes réanimateurs pédiatriques d’expression française. Prise en charge du brûlé grave à la phase
-aiguë chez l’adulte et l’enfant. 2019.",2020,Anesthésie-Réanimation,"Un traumatisé sévère est un patient victime d’un traumatisme dont la violence ou le mécanisme du trauma-
-tisme peuvent entraîner des lésions mettant en jeu le pronostic vital.
-Les traumatismes sont la première cause de mortalité chez les sujets jeunes (moins de 40 ans) et sont à
-l’origine de handicaps lourds et d’un coût financier important. La prise en charge dans un centre spécialisé
-(« trauma center ») permet de diminuer de 25 % la mortalité, d’où l’importance du triage de ces patients.
-Un défaut d’orientation nécessitant un transfert secondaire vers un centre spécialisé est associé à une
-surmortalité.
-La mortalité précoce est liée à l’hémorragie et au traumatisme crânien. La mortalité tardive est liée aux
-conséquences du traumatisme crânien et au syndrome de défaillance multiviscérale et ses complications."
+Connaître les principes de prise en charge des traumatisés crâniens"
+Chirurgie maxillo-faciale,,,,,,,,,,
+Chirurgie orale,,,,,,,,,,
+Chirurgie orthopédique et traumatologique,,,,,,,,,,
+Chirurgie pédiatrique,,,,,,,,,,
+"Chirurgie plastique, reconstructrice et esthétique",,,,,,,,,,
+Chirurgie thoracique et cardiovasculaire,,,,,,,,,,
+Chirurgie vasculaire,,,,,,,,,,
+Chirurgie viscérale et digestive,,,,,,,,,,
+Gynécologie-obstétrique,,,,,,,,,,
+Neurochirurgie,,,,,,,,,,
+Ophtalmologie,,,,,,,,,,
+Oto-rhino-laryngologie – chirurgie cervico-faciale,,,,,,,,,,
+Urologie,,,,,,,,,,
+Allergologie,,,,,,,,,,
+Anatomie et cytologie pathologiques,,,,,,,,,,
+Anesthésie-réanimation,,,,,,,,,,
+Dermatologie et vénéréologie,,,,,,,,,,
+Endocrinologie-diabétologie-nutrition,,,,,,,,,,
+Génétique médicale,,,,,,,,,,
+Gériatrie,,,,,,,,,,
+Gynécologie médicale,,,,,,,,,,
+Hématologie,,,,,,,,,,
+Hépato-gastro-entérologie,,,,,,,,,,
+Maladies infectieuses et tropicales,,,,,,,,,,
+Médecine cardiovasculaire,,,,,,,,,,
+Médecine d’urgence,,,,,,,,,,
+Médecine et santé au travail,,,,,,,,,,
+Médecine générale,,,,,,,,,,
+Médecine intensive-réanimation,,,,,,,,,,
+Médecine interne et immunologie clinique,,,,,,,,,,
+Médecine légale et expertises médicales,,,,,,,,,,
+Médecine nucléaire,,,,,,,,,,
+Médecine physique et de réadaptation,,,,,,,,,,
+Médecine vasculaire,,,,,,,,,,
+Néphrologie,,,,,,,,,,
+Neurologie,,,,,,,,,,
+Oncologie,,,,,,,,,,
+Pédiatrie,,,,,,,,,,
+Pneumologie,,,,,,,,,,
+Psychiatrie,,,,,,,,,,
+Radiologie et imagerie médicale,,,,,,,,,,
+Rhumatologie,,,,,,,,,,
+Santé publique,,,,,,,,,,
+Biologie médicale,,,,,,,,,,
